@@ -1,0 +1,18 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "selfContractAddress": 2
+            }
+        },
+        {
+            "Method": "checkName",
+            "VarMap": {
+                "selfContractAddress": 0
+            }
+        }
+    ]
+}

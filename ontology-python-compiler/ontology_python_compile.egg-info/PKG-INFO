@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: ontology-python-compile
+Version: 1.0.0
+Summary: A Python compiler for Ontology
+Home-page: https://github.com/ontio/ontology-python-compiler
+Author: steven
+Author-email: steven@onchain.com
+License: MIT
+Description: A Python compiler for Ontology
+Keywords: compiler .avm blockchain smartcontract development dApp for ontology
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Provides-Extra: test
+Provides-Extra: dev

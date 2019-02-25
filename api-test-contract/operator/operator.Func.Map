@@ -1,0 +1,137 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "a": 2,
+                "b": 3
+            }
+        },
+        {
+            "Method": "Add",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "And",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "Divide",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "eq",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "lq",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "leftshift",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "lr",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "mode",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "multi",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "ne",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "ng",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "Or",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "rightshift",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "se",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "selfadd",
+            "VarMap": {
+                "a": 0
+            }
+        },
+        {
+            "Method": "selfsub",
+            "VarMap": {
+                "a": 0
+            }
+        },
+        {
+            "Method": "sl",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        },
+        {
+            "Method": "sub",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        }
+    ]
+}

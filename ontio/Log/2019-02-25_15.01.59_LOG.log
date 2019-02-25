@@ -1,0 +1,5 @@
+2019/02/25 15:01:59.539942 [0;36m[INFO ][m GID 1, ontology version v1.6.0-19-ga89731c8
+2019/02/25 15:01:59.541941 [0;36m[INFO ][m GID 1, Config init success
+2019/02/25 15:02:01.405619 [0;36m[INFO ][m GID 1, Using account:ASwaf8mj2E3X18MHvcJtXoDsMqUjJswRWS
+2019/02/25 15:02:01.407606 [0;36m[INFO ][m GID 1, Account init success
+2019/02/25 15:02:01.689875 [0;31m[ERROR][m GID 1, Init ledger error:InitLedgerStoreWithGenesisBlock error GenesisBlock arenot init correctly

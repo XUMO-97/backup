@@ -1,0 +1,29 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "5f855519035230be99c2b5ab4d355851d43cddc5",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "While",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "ifelse",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

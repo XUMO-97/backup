@@ -1,0 +1,32 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "getTransactionCount",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Block": 2,
+                "Count": 3
+            }
+        },
+        {
+            "Method": "getTransactions",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Block": 2,
+                "txs": 3,
+                "tx": 4,
+                "Hash1": 5
+            }
+        }
+    ]
+}

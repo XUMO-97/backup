@@ -1,0 +1,39 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "getScriptContainer",
+            "VarMap": {
+                "context": 0,
+                "container": 1,
+                "Hash": 2,
+                "bhash": 3,
+                "block": 4,
+                "tx": 5,
+                "tHash": 6
+            }
+        },
+        {
+            "Method": "getExecutingScriptHash",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1
+            }
+        },
+        {
+            "Method": "getCallingScriptHash",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Hash1": 2
+            }
+        }
+    ]
+}

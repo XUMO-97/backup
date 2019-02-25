@@ -1,0 +1,95 @@
+{
+    "avm": {
+        "name": "transaction",
+        "hash": "f1aa029cb5a8aa7ea3095f9a1180c3b2c102ebad"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\transaction\\transaction.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 13,
+            "end": 29,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 32,
+            "end": 38,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 41,
+            "end": 44,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 10
+        },
+        {
+            "start": 45,
+            "end": 47,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 12
+        },
+        {
+            "start": 48,
+            "end": 90,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 13
+        },
+        {
+            "start": 91,
+            "end": 126,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 14
+        },
+        {
+            "start": 127,
+            "end": 164,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 15
+        },
+        {
+            "start": 165,
+            "end": 200,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 16
+        },
+        {
+            "start": 201,
+            "end": 204,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 17
+        },
+        {
+            "start": 201,
+            "end": 230,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 18
+        }
+    ]
+}

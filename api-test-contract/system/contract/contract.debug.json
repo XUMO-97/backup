@@ -1,0 +1,137 @@
+{
+    "avm": {
+        "name": "contract",
+        "hash": "d46d02a21f3915dba0096bd2b2f9ebc44140d646"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\contract\\contract.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 13,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 42,
+            "end": 48,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 51,
+            "end": 67,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 70,
+            "end": 76,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 79,
+            "end": 82,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 13
+        },
+        {
+            "start": 83,
+            "end": 85,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 15
+        },
+        {
+            "start": 86,
+            "end": 117,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 16
+        },
+        {
+            "start": 118,
+            "end": 169,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 17
+        },
+        {
+            "start": 170,
+            "end": 208,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 18
+        },
+        {
+            "start": 209,
+            "end": 251,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 19
+        },
+        {
+            "start": 252,
+            "end": 255,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 20
+        },
+        {
+            "start": 278,
+            "end": 281,
+            "file": 1,
+            "method": "getStorageContext",
+            "file_line_no": 21
+        },
+        {
+            "start": 304,
+            "end": 307,
+            "file": 1,
+            "method": "destroy",
+            "file_line_no": 22
+        },
+        {
+            "start": 308,
+            "end": 310,
+            "file": 1,
+            "method": "destroy",
+            "file_line_no": 24
+        },
+        {
+            "start": 311,
+            "end": 311,
+            "file": 1,
+            "method": "destroy",
+            "file_line_no": 25
+        },
+        {
+            "start": 311,
+            "end": 339,
+            "file": 1,
+            "method": "destroy",
+            "file_line_no": 26
+        }
+    ]
+}

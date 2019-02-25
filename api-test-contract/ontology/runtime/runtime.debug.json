@@ -1,0 +1,179 @@
+{
+    "avm": {
+        "name": "runtime",
+        "hash": "86a5c0ae691ebf9e95595b6343c615abd97100c1"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\ontology\\runtime\\runtime.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 13,
+            "end": 44,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 5
+        },
+        {
+            "start": 45,
+            "end": 57,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 60,
+            "end": 66,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 69,
+            "end": 81,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 84,
+            "end": 90,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 93,
+            "end": 109,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 112,
+            "end": 118,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 121,
+            "end": 124,
+            "file": 1,
+            "method": "BTA",
+            "file_line_no": 14
+        },
+        {
+            "start": 125,
+            "end": 127,
+            "file": 1,
+            "method": "BTA",
+            "file_line_no": 16
+        },
+        {
+            "start": 128,
+            "end": 159,
+            "file": 1,
+            "method": "BTA",
+            "file_line_no": 5
+        },
+        {
+            "start": 160,
+            "end": 233,
+            "file": 1,
+            "method": "BTA",
+            "file_line_no": 17
+        },
+        {
+            "start": 234,
+            "end": 239,
+            "file": 1,
+            "method": "ATB",
+            "file_line_no": 18
+        },
+        {
+            "start": 240,
+            "end": 242,
+            "file": 1,
+            "method": "ATB",
+            "file_line_no": 20
+        },
+        {
+            "start": 243,
+            "end": 274,
+            "file": 1,
+            "method": "ATB",
+            "file_line_no": 5
+        },
+        {
+            "start": 275,
+            "end": 282,
+            "file": 1,
+            "method": "ATB",
+            "file_line_no": 21
+        },
+        {
+            "start": 283,
+            "end": 324,
+            "file": 1,
+            "method": "ATB",
+            "file_line_no": 22
+        },
+        {
+            "start": 325,
+            "end": 330,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 23
+        },
+        {
+            "start": 331,
+            "end": 333,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 25
+        },
+        {
+            "start": 334,
+            "end": 365,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 5
+        },
+        {
+            "start": 366,
+            "end": 408,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 26
+        },
+        {
+            "start": 409,
+            "end": 419,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 27
+        },
+        {
+            "start": 409,
+            "end": 444,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 28
+        }
+    ]
+}

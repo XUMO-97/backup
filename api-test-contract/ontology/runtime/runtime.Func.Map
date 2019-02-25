@@ -1,0 +1,34 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "BTA",
+            "VarMap": {
+                "context": 0,
+                "bta": 1
+            }
+        },
+        {
+            "Method": "ATB",
+            "VarMap": {
+                "context": 0,
+                "bta": 1,
+                "atb": 2
+            }
+        },
+        {
+            "Method": "getHash",
+            "VarMap": {
+                "context": 0,
+                "blockhash": 1
+            }
+        }
+    ]
+}

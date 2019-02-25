@@ -1,0 +1,249 @@
+{
+    "avm": {
+        "name": "executionengine",
+        "hash": "b1a94a4cba3a250ab19792f068323b2512ddcd60"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\executionengine\\executionengine.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 13,
+            "end": 44,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 45,
+            "end": 72,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 75,
+            "end": 81,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 84,
+            "end": 115,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 118,
+            "end": 124,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 127,
+            "end": 156,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 159,
+            "end": 165,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 168,
+            "end": 171,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 20
+        },
+        {
+            "start": 172,
+            "end": 174,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 22
+        },
+        {
+            "start": 175,
+            "end": 206,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 11
+        },
+        {
+            "start": 207,
+            "end": 254,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 23
+        },
+        {
+            "start": 255,
+            "end": 290,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 24
+        },
+        {
+            "start": 291,
+            "end": 333,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 25
+        },
+        {
+            "start": 334,
+            "end": 369,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 26
+        },
+        {
+            "start": 370,
+            "end": 407,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 27
+        },
+        {
+            "start": 408,
+            "end": 443,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 28
+        },
+        {
+            "start": 444,
+            "end": 454,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 29
+        },
+        {
+            "start": 474,
+            "end": 485,
+            "file": 1,
+            "method": "getScriptContainer",
+            "file_line_no": 30
+        },
+        {
+            "start": 505,
+            "end": 508,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 31
+        },
+        {
+            "start": 509,
+            "end": 511,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 33
+        },
+        {
+            "start": 512,
+            "end": 543,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 11
+        },
+        {
+            "start": 544,
+            "end": 595,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 34
+        },
+        {
+            "start": 596,
+            "end": 606,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 35
+        },
+        {
+            "start": 626,
+            "end": 629,
+            "file": 1,
+            "method": "getExecutingScriptHash",
+            "file_line_no": 36
+        },
+        {
+            "start": 652,
+            "end": 655,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 37
+        },
+        {
+            "start": 656,
+            "end": 658,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 39
+        },
+        {
+            "start": 659,
+            "end": 690,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 11
+        },
+        {
+            "start": 691,
+            "end": 740,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 40
+        },
+        {
+            "start": 741,
+            "end": 788,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 41
+        },
+        {
+            "start": 789,
+            "end": 792,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 42
+        },
+        {
+            "start": 815,
+            "end": 818,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 43
+        },
+        {
+            "start": 815,
+            "end": 844,
+            "file": 1,
+            "method": "getCallingScriptHash",
+            "file_line_no": 44
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "OngContract": 2,
+                "fromAccount": 3,
+                "selfContractAddress": 4
+            }
+        },
+        {
+            "Method": "transferOngToContract",
+            "VarMap": {
+                "OngContract": 0,
+                "fromAccount": 1,
+                "selfContractAddress": 2,
+                "param": 3,
+                "res": 4
+            }
+        },
+        {
+            "Method": "checkSelfContractONGAmount",
+            "VarMap": {
+                "OngContract": 0,
+                "fromAccount": 1,
+                "selfContractAddress": 2,
+                "param": 3,
+                "res": 4
+            }
+        }
+    ]
+}

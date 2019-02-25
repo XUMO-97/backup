@@ -1,0 +1,43 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "getIndex",
+            "VarMap": {
+                "height": 0,
+                "header": 1,
+                "index": 2
+            }
+        },
+        {
+            "Method": "getHash",
+            "VarMap": {
+                "height": 0,
+                "header": 1,
+                "Hash": 2
+            }
+        },
+        {
+            "Method": "getPrevHash",
+            "VarMap": {
+                "height": 0,
+                "header": 1,
+                "preHash": 2
+            }
+        },
+        {
+            "Method": "getTimestamp",
+            "VarMap": {
+                "height": 0,
+                "header": 1,
+                "timestamp": 2
+            }
+        }
+    ]
+}

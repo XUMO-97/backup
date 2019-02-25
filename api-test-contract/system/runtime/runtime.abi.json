@@ -1,0 +1,32 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "f01474224c9b0747d13a37ca8ccc847e97a8e6ee",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getTrigger",
+            "parameters": []
+        },
+        {
+            "name": "checkWitness",
+            "parameters": [
+                {
+                    "name": "Hash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "notify",
+            "parameters": []
+        },
+        {
+            "name": "getTime",
+            "parameters": []
+        },
+        {
+            "name": "serialize",
+            "parameters": []
+        }
+    ]
+}

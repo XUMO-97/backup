@@ -1,0 +1,74 @@
+{
+    "avm": {
+        "name": "action",
+        "hash": "5fd9c07a78c86ac3f8090c1e7e8e8ecf90b14f1d"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\action\\action.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 13,
+            "end": 26,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 29,
+            "end": 35,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 38,
+            "end": 41,
+            "file": 1,
+            "method": "test",
+            "file_line_no": 10
+        },
+        {
+            "start": 42,
+            "end": 44,
+            "file": 1,
+            "method": "test",
+            "file_line_no": 12
+        },
+        {
+            "start": 45,
+            "end": 50,
+            "file": 1,
+            "method": "test",
+            "file_line_no": 13
+        },
+        {
+            "start": 51,
+            "end": 61,
+            "file": 1,
+            "method": "test",
+            "file_line_no": 14
+        },
+        {
+            "start": 51,
+            "end": 87,
+            "file": 1,
+            "method": "test",
+            "file_line_no": 15
+        }
+    ]
+}

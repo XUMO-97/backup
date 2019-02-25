@@ -1,0 +1,1150 @@
+[2019-01-09 17:34:45] ShadowsocksR started on port 1080
+[2019-01-09 17:34:55] [Info] Connect raw.githubusercontent.com:443
+[2019-01-09 17:34:58] [Info] Connect raw.githubusercontent.com:443
+[2019-01-09 17:34:59] [Error] connect to update server error
+[2019-01-09 17:35:01] [Info] Connect api.segment.io:443
+[2019-01-09 17:35:01] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:01] [Info] Direct connect www.google-analytics.com:443
+[2019-01-09 17:35:01] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-01-09 17:35:02] [Info] Connect www.google.com:443
+[2019-01-09 17:35:02] [Info] Connect atlassian.evergage.com:443
+[2019-01-09 17:35:02] [Info] Connect atlassian.evergage.com:443
+[2019-01-09 17:35:02] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:03] [Info] Connect product-downloads.atlassian.com:443
+[2019-01-09 17:35:09] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-09 17:35:12] [Info] Disconnect www.google.com:443
+[2019-01-09 17:35:12] [Info] Disconnect api.segment.io:443
+[2019-01-09 17:35:14] [Info] Disconnect atlassian.evergage.com:443
+[2019-01-09 17:35:16] [Info] Direct connect sp0.baidu.com:443
+[2019-01-09 17:35:16] [Info] Direct connect sp2.baidu.com:443
+[2019-01-09 17:35:16] [Info] Direct connect www.baidu.com:443
+[2019-01-09 17:35:16] [Info] Direct connect www.baidu.com:443
+[2019-01-09 17:35:17] [Info] Disconnect c.lytics.io:443
+[2019-01-09 17:35:17] [Info] Disconnect c.lytics.io:443
+[2019-01-09 17:35:21] [Info] Disconnect product-downloads.atlassian.com:443
+[2019-01-09 17:35:23] [Info] Connect cdn.optimizely.com:443
+[2019-01-09 17:35:23] [Info] Connect cdn.cookielaw.org:443
+[2019-01-09 17:35:24] [Info] Connect cdn.evgnet.com:443
+[2019-01-09 17:35:24] [Info] Connect ajax.googleapis.com:443
+[2019-01-09 17:35:24] [Info] Connect cdn.segment.com:443
+[2019-01-09 17:35:24] [Info] Connect www.sourcetreeapp.com:443
+[2019-01-09 17:35:24] [Info] Connect ace-cdn.atlassian.com:443
+[2019-01-09 17:35:25] [Info] Connect api.segment.io:443
+[2019-01-09 17:35:25] [Info] Connect atlassian.evergage.com:443
+[2019-01-09 17:35:25] [Info] Connect atlassian.evergage.com:443
+[2019-01-09 17:35:25] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:25] [Info] Connect preferences.atlassian.com:443
+[2019-01-09 17:35:26] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:27] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:35:28] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:35:30] [Info] Connect c.lytics.io:443
+[2019-01-09 17:35:31] [Info] Disconnect atlassian.evergage.com:443
+[2019-01-09 17:35:31] [Info] Connect product-downloads.atlassian.com:443
+[2019-01-09 17:35:32] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:35:33] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:35:34] [Info] Disconnect cdn.cookielaw.org:443
+[2019-01-09 17:35:34] [Info] Disconnect cdn.segment.com:443
+[2019-01-09 17:35:34] [Info] Disconnect ajax.googleapis.com:443
+[2019-01-09 17:35:34] [Info] Disconnect ace-cdn.atlassian.com:443
+[2019-01-09 17:35:35] [Info] Disconnect www.sourcetreeapp.com:443
+[2019-01-09 17:35:35] [Info] Disconnect cdn.optimizely.com:443
+[2019-01-09 17:35:35] [Info] Disconnect cdn.evgnet.com:443
+[2019-01-09 17:35:36] [Info] Disconnect atlassian.evergage.com:443
+[2019-01-09 17:35:37] [Info] Disconnect preferences.atlassian.com:443
+[2019-01-09 17:35:37] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:35:38] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:35:41] [Info] Disconnect api.segment.io:443
+[2019-01-09 17:35:41] [Info] Disconnect c.lytics.io:443
+[2019-01-09 17:35:41] [Info] Disconnect atlassian.evergage.com:443
+[2019-01-09 17:35:42] [Info] Disconnect c.lytics.io:443
+[2019-01-09 17:35:56] [Info] Connect clientservices.googleapis.com:443
+[2019-01-09 17:36:07] [Info] Disconnect clientservices.googleapis.com:443
+[2019-01-09 17:36:44] [Info] Connect sb-ssl.google.com:443
+[2019-01-09 17:36:53] [Info] Disconnect product-downloads.atlassian.com:443
+[2019-01-09 17:36:55] [Info] Disconnect sb-ssl.google.com:443
+[2019-01-09 17:37:13] [Info] Connect www.google.com:443
+[2019-01-09 17:37:13] [Info] Connect www.gstatic.com:443
+[2019-01-09 17:37:13] [Info] Connect ssl.gstatic.com:443
+[2019-01-09 17:37:15] [Info] Connect ssl.gstatic.com:443
+[2019-01-09 17:37:20] [Info] Connect adservice.google.com:443
+[2019-01-09 17:37:23] [Info] Disconnect www.gstatic.com:443
+[2019-01-09 17:37:24] [Info] Disconnect ssl.gstatic.com:443
+[2019-01-09 17:37:31] [Info] Disconnect www.google.com:443
+[2019-01-09 17:37:31] [Info] Disconnect ssl.gstatic.com:443
+[2019-01-09 17:37:31] [Info] Disconnect adservice.google.com:443
+[2019-01-09 17:38:28] [Info] Connect adservice.google.com:443
+[2019-01-09 17:38:29] [Info] Connect cdn.ampproject.org:443
+[2019-01-09 17:38:29] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-01-09 17:38:29] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-01-09 17:38:30] [Info] Connect cdn.ampproject.org:443
+[2019-01-09 17:38:39] [Info] Disconnect adservice.google.com:443
+[2019-01-09 17:38:40] [Info] Disconnect cdn.ampproject.org:443
+[2019-01-09 17:38:44] [Info] Disconnect cdn.ampproject.org:443
+[2019-01-09 17:39:55] [Info] Connect raw.githubusercontent.com:443
+[2019-01-09 17:39:56] [Error] connect to update server error
+[2019-01-09 17:40:07] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-09 17:48:28] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-09 17:48:28] [Info] Connect aid-static-assets.prod.atl-paas.net:443
+[2019-01-09 17:48:28] [Info] Connect id.atlassian.com:443
+[2019-01-09 17:48:29] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:48:30] [Info] Connect cpfs-cdn.atlassian.com:443
+[2019-01-09 17:48:30] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:48:31] [Info] Connect aui-cdn.atlassian.com:443
+[2019-01-09 17:48:33] [Info] Connect bitbucket.org:443
+[2019-01-09 17:48:34] [Info] Connect ocsp.digicert.com:80
+[2019-01-09 17:48:34] [Info] Disconnect ocsp.digicert.com:80
+[2019-01-09 17:48:36] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:48:37] [Info] Connect ace-cdn.atlassian.com:443
+[2019-01-09 17:48:37] [Info] Connect sentry.io:443
+[2019-01-09 17:48:37] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:48:37] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:48:37] [Info] Connect preferences.atlassian.com:443
+[2019-01-09 17:48:37] [Info] Connect smartlock.google.com:443
+[2019-01-09 17:48:38] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:48:38] [Info] Connect api.segment.io:443
+[2019-01-09 17:48:38] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-09 17:48:39] [Info] Connect accounts.google.com:443
+[2019-01-09 17:48:40] [Info] Connect mgas.prod.public.atl-paas.net:443
+[2019-01-09 17:48:40] [Info] Disconnect aid-static-assets.prod.atl-paas.net:443
+[2019-01-09 17:48:41] [Info] Disconnect cpfs-cdn.atlassian.com:443
+[2019-01-09 17:48:41] [Info] Connect play.google.com:443
+[2019-01-09 17:48:41] [Info] Connect accounts.youtube.com:443
+[2019-01-09 17:48:41] [Info] Connect play.google.com:443
+[2019-01-09 17:48:42] [Info] Disconnect aui-cdn.atlassian.com:443
+[2019-01-09 17:48:42] [Info] Connect play.google.com:443
+[2019-01-09 17:48:42] [Info] Connect play.google.com:443
+[2019-01-09 17:48:45] [Info] Connect aid-frontend.prod.atl-paas.net:443
+[2019-01-09 17:48:45] [Info] Connect aui-cdn.atlassian.com:443
+[2019-01-09 17:48:46] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:48:46] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:48:46] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-09 17:48:46] [Info] Connect aid-static-assets.prod.atl-paas.net:443
+[2019-01-09 17:48:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:48:48] [Info] Disconnect sentry.io:443
+[2019-01-09 17:48:48] [Info] Disconnect ace-cdn.atlassian.com:443
+[2019-01-09 17:48:48] [Info] Disconnect preferences.atlassian.com:443
+[2019-01-09 17:48:49] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:48:49] [Info] Disconnect smartlock.google.com:443
+[2019-01-09 17:48:49] [Info] Connect api-private.atlassian.com:443
+[2019-01-09 17:48:49] [Info] Connect atlassian.net:443
+[2019-01-09 17:48:49] [Info] Connect atlassian.io:443
+[2019-01-09 17:48:49] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:48:49] [Info] Connect hamlet.atlassian.com:443
+[2019-01-09 17:48:49] [Info] Disconnect api.segment.io:443
+[2019-01-09 17:48:50] [Info] Connect customer-context-gateway.atlassian.com:443
+[2019-01-09 17:48:50] [Info] Connect jira.com:443
+[2019-01-09 17:48:50] [Info] Connect www.atlassian.com:443
+[2019-01-09 17:48:51] [Info] Connect marketplace.atlassian.com:443
+[2019-01-09 17:48:51] [Info] Connect my.atlassian.com:443
+[2019-01-09 17:48:51] [Info] Connect jira-ops.atlassian.com:443
+[2019-01-09 17:48:51] [Info] Disconnect mgas.prod.public.atl-paas.net:443
+[2019-01-09 17:48:51] [Info] Connect clementine.atlassian.com:443
+[2019-01-09 17:48:52] [Info] Connect admin.atlassian.com:443
+[2019-01-09 17:48:52] [Info] Disconnect play.google.com:443
+[2019-01-09 17:48:52] [Info] Disconnect accounts.youtube.com:443
+[2019-01-09 17:48:52] [Info] Disconnect play.google.com:443
+[2019-01-09 17:48:52] [Info] Connect bitbucket.org:443
+[2019-01-09 17:48:53] [Info] Disconnect play.google.com:443
+[2019-01-09 17:48:54] [Info] Connect cdn.optimizely.com:443
+[2019-01-09 17:48:54] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:48:54] [Info] Connect csp-report-logger.prod.public.atl-paas.net:443
+[2019-01-09 17:48:55] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:48:55] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:48:55] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:48:55] [Info] Disconnect play.google.com:443
+[2019-01-09 17:48:55] [Info] Disconnect aid-frontend.prod.atl-paas.net:443
+[2019-01-09 17:48:56] [Info] Connect logx.optimizely.com:443
+[2019-01-09 17:48:56] [Info] Disconnect accounts.google.com:443
+[2019-01-09 17:48:56] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:48:56] [Info] Disconnect aui-cdn.atlassian.com:443
+[2019-01-09 17:48:57] [Info] Connect a1096093.cdn.optimizely.com:443
+[2019-01-09 17:48:57] [Info] Direct connect www.google-analytics.com:443
+[2019-01-09 17:48:57] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-09 17:48:58] [Info] Connect ace-cdn.atlassian.com:443
+[2019-01-09 17:48:58] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:48:58] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-01-09 17:48:58] [Info] Connect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:48:58] [Info] Connect cdn.segment.com:443
+[2019-01-09 17:48:59] [Info] Disconnect aid-static-assets.prod.atl-paas.net:443
+[2019-01-09 17:48:59] [Info] Connect xdid.hipchat.com:443
+[2019-01-09 17:48:59] [Info] Connect xid.opsgenie.com:443
+[2019-01-09 17:48:59] [Info] Connect xid.sourcetreeapp.com:443
+[2019-01-09 17:48:59] [Info] Connect api.segment.io:443
+[2019-01-09 17:48:59] [Info] Connect xid.statuspage.io:443
+[2019-01-09 17:49:00] [Info] Disconnect ace-cdn.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect customer-context-gateway.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:00] [Info] Disconnect my.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect jira-ops.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect clementine.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect cdn.optimizely.com:443
+[2019-01-09 17:49:00] [Info] Disconnect admin.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect www.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect marketplace.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect atlassian.io:443
+[2019-01-09 17:49:00] [Info] Connect xid.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect hamlet.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect api-private.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect jira.com:443
+[2019-01-09 17:49:00] [Info] Disconnect atlassian.net:443
+[2019-01-09 17:49:00] [Info] Disconnect cdn.segment.com:443
+[2019-01-09 17:49:00] [Info] Disconnect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:49:00] [Info] Connect ace-cdn.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Direct connect www.googletagmanager.com:443
+[2019-01-09 17:49:00] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:00] [Info] Connect js-agent.newrelic.com:443
+[2019-01-09 17:49:00] [Info] Connect connect.facebook.net:443
+[2019-01-09 17:49:00] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:00] [Info] Direct connect www.google-analytics.com:443
+[2019-01-09 17:49:00] [Info] Disconnect id.atlassian.com:443
+[2019-01-09 17:49:00] [Info] Disconnect a1096093.cdn.optimizely.com:443
+[2019-01-09 17:49:00] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:00] [Info] Disconnect csp-report-logger.prod.public.atl-paas.net:443
+[2019-01-09 17:49:00] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-01-09 17:49:00] [Info] Connect www.google.com:443
+[2019-01-09 17:49:00] [Info] Connect xid.stride.com:443
+[2019-01-09 17:49:01] [Info] Connect bat.bing.com:443
+[2019-01-09 17:49:01] [Info] Direct connect www.googleadservices.com:443
+[2019-01-09 17:49:01] [Info] Connect api.autopilothq.com:443
+[2019-01-09 17:49:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:01] [Info] Connect platform.twitter.com:443
+[2019-01-09 17:49:01] [Info] Connect errors.client.optimizely.com:443
+[2019-01-09 17:49:01] [Info] Connect bam.nr-data.net:443
+[2019-01-09 17:49:02] [Info] Connect static.ads-twitter.com:443
+[2019-01-09 17:49:02] [Info] Disconnect api.autopilothq.com:443
+[2019-01-09 17:49:02] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-09 17:49:03] [Info] Connect csp-report-logger.prod.public.atl-paas.net:443
+[2019-01-09 17:49:03] [Info] Connect www.facebook.com:443
+[2019-01-09 17:49:03] [Info] Connect www.facebook.com:443
+[2019-01-09 17:49:05] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:06] [Debug] DNS query fail: canonicalizer.ucsuri.tcs
+[2019-01-09 17:49:06] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2019-01-09 17:49:06] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:06] [Info] Disconnect canonicalizer.ucsuri.tcs:80
+[2019-01-09 17:49:09] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:09] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:09] [Info] Connect t.co:443
+[2019-01-09 17:49:09] [Info] Connect t.co:443
+[2019-01-09 17:49:09] [Info] Connect t.co:443
+[2019-01-09 17:49:09] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:09] [Info] Disconnect t.co:443
+[2019-01-09 17:49:09] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:09] [Info] Disconnect t.co:443
+[2019-01-09 17:49:10] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:10] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:49:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:11] [Info] Disconnect xdid.hipchat.com:443
+[2019-01-09 17:49:11] [Info] Disconnect xid.statuspage.io:443
+[2019-01-09 17:49:11] [Info] Disconnect xid.sourcetreeapp.com:443
+[2019-01-09 17:49:11] [Info] Disconnect xid.atlassian.com:443
+[2019-01-09 17:49:11] [Info] Disconnect xid.opsgenie.com:443
+[2019-01-09 17:49:11] [Info] Disconnect js-agent.newrelic.com:443
+[2019-01-09 17:49:11] [Info] Disconnect ace-cdn.atlassian.com:443
+[2019-01-09 17:49:11] [Info] Disconnect api.segment.io:443
+[2019-01-09 17:49:11] [Info] Disconnect www.google.com:443
+[2019-01-09 17:49:12] [Info] Disconnect xid.stride.com:443
+[2019-01-09 17:49:12] [Info] Disconnect platform.twitter.com:443
+[2019-01-09 17:49:13] [Info] Disconnect connect.facebook.net:443
+[2019-01-09 17:49:13] [Info] Disconnect errors.client.optimizely.com:443
+[2019-01-09 17:49:13] [Info] Disconnect bat.bing.com:443
+[2019-01-09 17:49:13] [Info] Disconnect logx.optimizely.com:443
+[2019-01-09 17:49:13] [Info] Disconnect static.ads-twitter.com:443
+[2019-01-09 17:49:14] [Info] Disconnect csp-report-logger.prod.public.atl-paas.net:443
+[2019-01-09 17:49:14] [Info] Disconnect www.facebook.com:443
+[2019-01-09 17:49:15] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:15] [Info] Disconnect www.facebook.com:443
+[2019-01-09 17:49:16] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:20] [Info] Disconnect bam.nr-data.net:443
+[2019-01-09 17:49:20] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:20] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:20] [Info] Disconnect t.co:443
+[2019-01-09 17:49:22] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:25] [Info] Connect www.facebook.com:443
+[2019-01-09 17:49:25] [Info] Connect cdn.optimizely.com:443
+[2019-01-09 17:49:25] [Info] Connect bitbucket.org:443
+[2019-01-09 17:49:25] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:25] [Info] Connect ace-cdn.atlassian.com:443
+[2019-01-09 17:49:25] [Info] Connect cdn.segment.com:443
+[2019-01-09 17:49:26] [Info] Connect bam.nr-data.net:443
+[2019-01-09 17:49:26] [Info] Connect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:49:27] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:49:27] [Info] Connect logx.optimizely.com:443
+[2019-01-09 17:49:27] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:49:27] [Info] Connect clients1.google.com:443
+[2019-01-09 17:49:27] [Info] Connect api.segment.io:443
+[2019-01-09 17:49:27] [Info] Connect connect.facebook.net:443
+[2019-01-09 17:49:27] [Info] Connect platform.twitter.com:443
+[2019-01-09 17:49:27] [Info] Connect api.autopilothq.com:443
+[2019-01-09 17:49:27] [Info] Connect bat.bing.com:443
+[2019-01-09 17:49:27] [Info] Direct connect 5406241.fls.doubleclick.net:443
+[2019-01-09 17:49:27] [Info] Connect bat.bing.com:443
+[2019-01-09 17:49:28] [Info] Connect static.ads-twitter.com:443
+[2019-01-09 17:49:28] [Info] Disconnect api.autopilothq.com:443
+[2019-01-09 17:49:28] [Info] Connect t.co:443
+[2019-01-09 17:49:29] [Info] Connect t.co:443
+[2019-01-09 17:49:29] [Info] Connect t.co:443
+[2019-01-09 17:49:29] [Info] Connect api.autopilothq.com:443
+[2019-01-09 17:49:29] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:29] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:29] [Info] Connect analytics.twitter.com:443
+[2019-01-09 17:49:30] [Info] Disconnect api.autopilothq.com:443
+[2019-01-09 17:49:31] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:32] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:35] [Info] Disconnect cdn.segment.com:443
+[2019-01-09 17:49:35] [Info] Disconnect cdn.optimizely.com:443
+[2019-01-09 17:49:37] [Info] Connect api.autopilothq.com:443
+[2019-01-09 17:49:37] [Info] Connect cdn.optimizely.com:443
+[2019-01-09 17:49:37] [Info] Connect cdn.segment.com:443
+[2019-01-09 17:49:37] [Info] Disconnect ace-cdn.atlassian.com:443
+[2019-01-09 17:49:37] [Info] Disconnect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:49:38] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:49:38] [Info] Disconnect clients1.google.com:443
+[2019-01-09 17:49:38] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:49:38] [Info] Disconnect platform.twitter.com:443
+[2019-01-09 17:49:38] [Info] Disconnect connect.facebook.net:443
+[2019-01-09 17:49:38] [Info] Disconnect bat.bing.com:443
+[2019-01-09 17:49:38] [Info] Disconnect api.segment.io:443
+[2019-01-09 17:49:38] [Info] Disconnect bat.bing.com:443
+[2019-01-09 17:49:38] [Info] Disconnect logx.optimizely.com:443
+[2019-01-09 17:49:39] [Info] Disconnect static.ads-twitter.com:443
+[2019-01-09 17:49:39] [Info] Disconnect t.co:443
+[2019-01-09 17:49:39] [Info] Disconnect t.co:443
+[2019-01-09 17:49:39] [Info] Disconnect t.co:443
+[2019-01-09 17:49:40] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:40] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:40] [Info] Disconnect api.autopilothq.com:443
+[2019-01-09 17:49:40] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:40] [Info] Connect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:49:40] [Info] Connect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:49:40] [Info] Disconnect analytics.twitter.com:443
+[2019-01-09 17:49:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:42] [Info] Connect api-private.atlassian.com:443
+[2019-01-09 17:49:42] [Info] Connect clients1.google.com:443
+[2019-01-09 17:49:43] [Info] Connect api.bitbucket.org:443
+[2019-01-09 17:49:44] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:47] [Info] Disconnect www.facebook.com:443
+[2019-01-09 17:49:48] [Info] Disconnect cdn.segment.com:443
+[2019-01-09 17:49:48] [Info] Disconnect cdn.optimizely.com:443
+[2019-01-09 17:49:48] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:50] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:49:50] [Info] Disconnect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:49:52] [Info] Disconnect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:49:53] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:53] [Info] Disconnect bam.nr-data.net:443
+[2019-01-09 17:49:53] [Info] Disconnect clients1.google.com:443
+[2019-01-09 17:49:54] [Info] Connect bitbucket.org:443
+[2019-01-09 17:49:54] [Info] Connect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:49:54] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:49:54] [Info] Disconnect api.bitbucket.org:443
+[2019-01-09 17:49:54] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:49:55] [Info] Connect bam.nr-data.net:443
+[2019-01-09 17:49:55] [Info] Disconnect api-private.atlassian.com:443
+[2019-01-09 17:49:55] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:49:57] [Info] Connect api-private.atlassian.com:443
+[2019-01-09 17:49:57] [Info] Connect avatar-cdn.atlassian.com:443
+[2019-01-09 17:49:57] [Info] Connect api-private.atlassian.com:443
+[2019-01-09 17:49:58] [Info] Connect api.bitbucket.org:443
+[2019-01-09 17:49:58] [Info] Connect secure.gravatar.com:443
+[2019-01-09 17:49:59] [Info] Connect i0.wp.com:443
+[2019-01-09 17:50:02] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:04] [Info] Disconnect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:50:07] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:50:07] [Info] Disconnect api-private.atlassian.com:443
+[2019-01-09 17:50:07] [Info] Disconnect api-private.atlassian.com:443
+[2019-01-09 17:50:08] [Info] Disconnect avatar-cdn.atlassian.com:443
+[2019-01-09 17:50:09] [Info] Disconnect secure.gravatar.com:443
+[2019-01-09 17:50:09] [Info] Disconnect i0.wp.com:443
+[2019-01-09 17:50:10] [Info] Disconnect bam.nr-data.net:443
+[2019-01-09 17:50:11] [Info] Disconnect api.bitbucket.org:443
+[2019-01-09 17:50:11] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:50:11] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:12] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:13] [Info] Connect bitbucket.org:443
+[2019-01-09 17:50:13] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:50:13] [Info] Connect avatar-cdn.atlassian.com:443
+[2019-01-09 17:50:13] [Info] Connect i0.wp.com:443
+[2019-01-09 17:50:13] [Info] Connect secure.gravatar.com:443
+[2019-01-09 17:50:13] [Info] Connect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:50:15] [Info] Connect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:50:15] [Info] Connect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:50:15] [Info] Connect as.atlassian.com:443
+[2019-01-09 17:50:15] [Info] Connect bam.nr-data.net:443
+[2019-01-09 17:50:16] [Info] Connect api.bitbucket.org:443
+[2019-01-09 17:50:17] [Info] Direct connect localhost:34106
+[2019-01-09 17:50:17] [Info] Connect aui-cdn.atlassian.com:80
+[2019-01-09 17:50:17] [Info] Connect ajax.googleapis.com:80
+[2019-01-09 17:50:17] [Info] Connect aui-cdn.atlassian.com:80
+[2019-01-09 17:50:17] [Info] Connect bitbucket.org:443
+[2019-01-09 17:50:18] [Info] Disconnect ajax.googleapis.com:80
+[2019-01-09 17:50:18] [Info] Direct connect localhost:34106
+[2019-01-09 17:50:18] [Info] Disconnect aui-cdn.atlassian.com:80
+[2019-01-09 17:50:18] [Info] Disconnect aui-cdn.atlassian.com:80
+[2019-01-09 17:50:18] [Info] Connect api.bitbucket.org:443
+[2019-01-09 17:50:19] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:34106
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:20] [Info] Connect api.bitbucket.org:443
+[2019-01-09 17:50:20] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:21] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:23] [Info] Disconnect bitbucketfeedback.atlassian.net:443
+[2019-01-09 17:50:24] [Info] Disconnect i0.wp.com:443
+[2019-01-09 17:50:24] [Info] Disconnect secure.gravatar.com:443
+[2019-01-09 17:50:24] [Info] Disconnect avatar-cdn.atlassian.com:443
+[2019-01-09 17:50:24] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:24] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:50:25] [Info] Connect downloads.atlassian.com:443
+[2019-01-09 17:50:25] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:25] [Info] Disconnect d301sr5gafysq2.cloudfront.net:443
+[2019-01-09 17:50:26] [Info] Disconnect bqlf8qjztdtr.statuspage.io:443
+[2019-01-09 17:50:26] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 17:50:27] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:50:27] [Info] Disconnect api.bitbucket.org:443
+[2019-01-09 17:50:27] [Info] Disconnect bam.nr-data.net:443
+[2019-01-09 17:50:28] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:28] [Info] Disconnect bitbucket.org:443
+[2019-01-09 17:50:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:30] [Info] Disconnect api.bitbucket.org:443
+[2019-01-09 17:50:31] [Info] Disconnect api.bitbucket.org:443
+[2019-01-09 17:50:34] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:35] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:35] [Info] Connect clients4.google.com:443
+[2019-01-09 17:50:41] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:42] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 17:50:51] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 17:50:56] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:50:59] [Info] Connect bam.nr-data.net:443
+[2019-01-09 17:51:02] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:51:06] [Info] Disconnect clients4.google.com:443
+[2019-01-09 17:51:27] [Info] Connect clients4.google.com:443
+[2019-01-09 17:51:30] [Info] Disconnect bam.nr-data.net:443
+[2019-01-09 17:51:57] [Info] Disconnect clients4.google.com:443
+[2019-01-09 17:52:01] [Info] Connect v10.events.data.microsoft.com:443
+[2019-01-09 17:52:33] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-01-09 17:52:36] [Info] Connect v10.events.data.microsoft.com:443
+[2019-01-09 17:52:56] [Info] Connect clients4.google.com:443
+[2019-01-09 17:53:05] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 17:53:05] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 17:53:05] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 17:53:05] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:53:07] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:53:07] [Info] Connect fonts.gstatic.com:443
+[2019-01-09 17:53:07] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:53:07] [Info] Disconnect downloads.atlassian.com:443
+[2019-01-09 17:53:08] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:53:10] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-01-09 17:53:15] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:53:16] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:53:16] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:53:16] [Info] Disconnect clients4.google.com:443
+[2019-01-09 17:53:16] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 17:53:16] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 17:53:17] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:53:18] [Info] Disconnect fonts.gstatic.com:443
+[2019-01-09 17:53:18] [Info] Connect v10.events.data.microsoft.com:443
+[2019-01-09 17:53:21] [Info] Connect v10.events.data.microsoft.com:443
+[2019-01-09 17:53:22] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-01-09 17:53:26] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:53:36] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:53:42] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:53:45] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:54:43] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 17:54:43] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:54:44] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:54:44] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:54:46] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:54:51] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:54:52] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:54:52] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:54:53] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:54:59] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:55:05] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:55:07] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:56:08] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 17:56:09] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:56:10] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:56:10] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:56:12] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:56:15] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:56:16] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:56:26] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:56:32] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:57:03] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 17:57:33] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-01-09 17:57:34] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-01-09 17:58:54] [Info] Connect safebrowsing.googleapis.com:443
+[2019-01-09 17:58:54] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 17:58:54] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:58:56] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:58:56] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:58:58] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:59:06] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-01-09 17:59:15] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:59:17] [Info] Connect devapi.ont.io:443
+[2019-01-09 17:59:17] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:59:19] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 17:59:27] [Info] Connect cdn.onenote.net:443
+[2019-01-09 17:59:38] [Info] Disconnect cdn.onenote.net:443
+[2019-01-09 18:00:02] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:00:04] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:00:04] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:00:06] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:00:21] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:00:22] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:00:22] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:00:24] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:02] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:01:15] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:01:21] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:22] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:22] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:24] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:32] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:33] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:33] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:35] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:39] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:41] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:01:41] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:01:43] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:02:14] [Info] Connect btf-analytics.s3.amazonaws.com:80
+[2019-01-09 18:02:14] [Info] Connect btf-analytics.s3.amazonaws.com:80
+[2019-01-09 18:02:15] [Info] Disconnect btf-analytics.s3.amazonaws.com:80
+[2019-01-09 18:02:15] [Info] Disconnect btf-analytics.s3.amazonaws.com:80
+[2019-01-09 18:02:15] [Info] Connect as.atlassian.com:443
+[2019-01-09 18:02:16] [Info] Connect analytics.atlassian.com:443
+[2019-01-09 18:02:17] [Info] Connect as.atlassian.com:443
+[2019-01-09 18:02:17] [Info] Connect analytics.atlassian.com:443
+[2019-01-09 18:02:18] [Info] Disconnect analytics.atlassian.com:443
+[2019-01-09 18:02:18] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 18:02:18] [Info] Disconnect analytics.atlassian.com:443
+[2019-01-09 18:02:18] [Info] Disconnect as.atlassian.com:443
+[2019-01-09 18:02:27] [Debug] DNS query fail: canonicalizer.ucsuri.tcs
+[2019-01-09 18:02:27] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2019-01-09 18:02:28] [Info] Disconnect canonicalizer.ucsuri.tcs:80
+[2019-01-09 18:02:29] [Info] Connect roaming.officeapps.live.com:443
+[2019-01-09 18:02:29] [Info] Connect ocws.officeapps.live.com:443
+[2019-01-09 18:02:29] [Info] Connect ocws.officeapps.live.com:443
+[2019-01-09 18:02:31] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-01-09 18:02:33] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:33] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:34] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:34] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:37] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:37] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:37] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-01-09 18:02:37] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-01-09 18:02:37] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:02:37] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:03:55] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-01-09 18:05:56] [Info] Connect clientservices.googleapis.com:443
+[2019-01-09 18:06:07] [Info] Disconnect clientservices.googleapis.com:443
+[2019-01-09 18:06:43] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 18:06:43] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:06:44] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:06:45] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:06:46] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:07:00] [Info] Connect v10.events.data.microsoft.com:443
+[2019-01-09 18:07:02] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-01-09 18:07:14] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:07:15] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:07:15] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:07:16] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:08:37] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 18:08:37] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:08:39] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:08:39] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:08:41] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:08:51] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:08:52] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:08:53] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:08:53] [Info] Connect fonts.gstatic.com:443
+[2019-01-09 18:08:55] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:09:03] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:09:04] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:09:04] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:09:04] [Info] Disconnect fonts.gstatic.com:443
+[2019-01-09 18:09:05] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:09:09] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:09:12] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:10:37] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:11:13] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:12:35] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 18:12:35] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:12:37] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:12:37] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:12:38] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:12:45] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:12:46] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:12:46] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:12:47] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:12:52] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:12:54] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:12:57] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:13:11] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:13:15] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:13:57] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:14:18] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:14:24] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:16:51] [Info] Connect www.google.com:443
+[2019-01-09 18:16:51] [Info] Connect ssl.gstatic.com:443
+[2019-01-09 18:16:51] [Info] Connect www.gstatic.com:443
+[2019-01-09 18:17:01] [Info] Disconnect www.gstatic.com:443
+[2019-01-09 18:17:01] [Info] Disconnect ssl.gstatic.com:443
+[2019-01-09 18:17:05] [Info] Disconnect www.google.com:443
+[2019-01-09 18:18:29] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:18:40] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:20:40] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:22:41] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 18:22:42] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:22:43] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:22:43] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:22:45] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:22:51] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:22:52] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:22:52] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:22:53] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:23:08] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:23:19] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:23:25] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:23:33] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:23:37] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:24:01] [Info] Direct connect smartxcompiler.ont.io:443
+[2019-01-09 18:24:01] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:24:02] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:24:02] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:24:04] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:24:09] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:24:10] [Info] Connect devapi.ont.io:443
+[2019-01-09 18:24:10] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:24:11] [Info] Disconnect devapi.ont.io:443
+[2019-01-09 18:24:21] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:24:27] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:24:34] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:26:15] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:27:11] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:27:28] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:27:33] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-01-09 18:27:34] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-01-09 18:27:36] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:28:17] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:28:38] [Info] Connect safebrowsing.googleapis.com:443
+[2019-01-09 18:28:50] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-01-09 18:29:00] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:29:33] [Info] Connect cdn.onenote.net:443
+[2019-01-09 18:29:42] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:29:44] [Info] Disconnect cdn.onenote.net:443
+[2019-01-09 18:29:54] [Info] Direct connect 127.0.0.1:20336
+[2019-01-09 18:33:55] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-01-09 18:35:49] [Info] Connect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:35:56] [Info] Connect clientservices.googleapis.com:443
+[2019-01-09 18:36:01] [Info] Disconnect array706-prod.do.dsp.mp.microsoft.com:443
+[2019-01-09 18:36:07] [Info] Disconnect clientservices.googleapis.com:443
+[2019-01-09 18:39:47] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:39:48] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:39:52] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:39:53] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:39:57] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:39:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:02] [Debug] DNS query fail: canonicalizer.ucsuri.tcs
+[2019-01-09 18:40:02] [Info] Connect canonicalizer.ucsuri.tcs:80
+[2019-01-09 18:40:02] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:03] [Info] Disconnect canonicalizer.ucsuri.tcs:80
+[2019-01-09 18:40:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:07] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:08] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:12] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:13] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:17] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:18] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:22] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:27] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:32] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:33] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:37] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:38] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:40] [Info] Connect www.google.com:443
+[2019-01-09 18:40:40] [Info] Connect ssl.gstatic.com:443
+[2019-01-09 18:40:40] [Info] Connect www.gstatic.com:443
+[2019-01-09 18:40:42] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:43] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:45] [Info] Connect github.com:443
+[2019-01-09 18:40:45] [Info] Connect github.com:443
+[2019-01-09 18:40:45] [Info] Connect github.githubassets.com:443
+[2019-01-09 18:40:45] [Info] Connect avatars1.githubusercontent.com:443
+[2019-01-09 18:40:46] [Info] Connect github.githubassets.com:443
+[2019-01-09 18:40:46] [Info] Connect avatars1.githubusercontent.com:443
+[2019-01-09 18:40:46] [Info] Connect avatars3.githubusercontent.com:443
+[2019-01-09 18:40:46] [Info] Direct connect www.google-analytics.com:443
+[2019-01-09 18:40:47] [Info] Connect collector.githubapp.com:443
+[2019-01-09 18:40:47] [Info] Connect collector.githubapp.com:443
+[2019-01-09 18:40:47] [Info] Connect live.github.com:443
+[2019-01-09 18:40:47] [Info] Connect api.github.com:443
+[2019-01-09 18:40:47] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:48] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:51] [Info] Disconnect ssl.gstatic.com:443
+[2019-01-09 18:40:51] [Info] Disconnect www.gstatic.com:443
+[2019-01-09 18:40:53] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:40:54] [Info] Disconnect www.google.com:443
+[2019-01-09 18:40:55] [Info] Connect github.com:443
+[2019-01-09 18:40:55] [Info] Connect github.githubassets.com:443
+[2019-01-09 18:40:55] [Info] Disconnect github.githubassets.com:443
+[2019-01-09 18:40:55] [Info] Disconnect github.com:443
+[2019-01-09 18:40:56] [Info] Disconnect live.github.com:443
+[2019-01-09 18:40:56] [Info] Connect live.github.com:443
+[2019-01-09 18:40:57] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-01-09 18:40:57] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-01-09 18:40:57] [Info] Disconnect avatars3.githubusercontent.com:443
+[2019-01-09 18:40:57] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:40:58] [Info] Disconnect collector.githubapp.com:443
+[2019-01-09 18:40:58] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:04] [Info] Connect avatars1.githubusercontent.com:443
+[2019-01-09 18:41:04] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:05] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:06] [Info] Disconnect github.com:443
+[2019-01-09 18:41:06] [Info] Disconnect github.githubassets.com:443
+[2019-01-09 18:41:06] [Info] Disconnect live.github.com:443
+[2019-01-09 18:41:07] [Info] Connect clients1.google.com:443
+[2019-01-09 18:41:07] [Info] Connect live.github.com:443
+[2019-01-09 18:41:07] [Info] Connect collector.githubapp.com:443
+[2019-01-09 18:41:07] [Info] Disconnect collector.githubapp.com:443
+[2019-01-09 18:41:07] [Info] Connect collector.githubapp.com:443
+[2019-01-09 18:41:07] [Info] Disconnect api.github.com:443
+[2019-01-09 18:41:07] [Info] Connect api.github.com:443
+[2019-01-09 18:41:08] [Info] Disconnect github.githubassets.com:443
+[2019-01-09 18:41:10] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:14] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:15] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-01-09 18:41:15] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:17] [Info] Disconnect github.com:443
+[2019-01-09 18:41:17] [Info] Disconnect clients1.google.com:443
+[2019-01-09 18:41:17] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:17] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:18] [Info] Disconnect live.github.com:443
+[2019-01-09 18:41:18] [Info] Disconnect collector.githubapp.com:443
+[2019-01-09 18:41:18] [Info] Disconnect api.github.com:443
+[2019-01-09 18:41:18] [Info] Disconnect collector.githubapp.com:443
+[2019-01-09 18:41:18] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:18] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:22] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:29] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:29] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:41:31] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:32] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:40] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:45] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:41:52] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:41:53] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:01] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:02] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:07] [Info] Connect github.com:443
+[2019-01-09 18:42:07] [Info] Connect github.com:443
+[2019-01-09 18:42:07] [Info] Connect github.githubassets.com:443
+[2019-01-09 18:42:07] [Info] Connect avatars1.githubusercontent.com:443
+[2019-01-09 18:42:08] [Info] Connect github.com:443
+[2019-01-09 18:42:08] [Info] Connect clients1.google.com:443
+[2019-01-09 18:42:08] [Info] Connect live.github.com:443
+[2019-01-09 18:42:08] [Info] Connect collector.githubapp.com:443
+[2019-01-09 18:42:08] [Info] Connect github.com:443
+[2019-01-09 18:42:08] [Info] Connect api.github.com:443
+[2019-01-09 18:42:09] [Info] Direct connect update.helper.2345.cc:80
+[2019-01-09 18:42:09] [Info] Connect avatars0.githubusercontent.com:443
+[2019-01-09 18:42:09] [Info] Direct connect ts.helper.2345.cc:80
+[2019-01-09 18:42:09] [Info] Direct connect t.helper.2345.cc:80
+[2019-01-09 18:42:10] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:12] [Info] Connect live.github.com:443
+[2019-01-09 18:42:12] [Info] Connect avatars3.githubusercontent.com:443
+[2019-01-09 18:42:12] [Info] Connect api.github.com:443
+[2019-01-09 18:42:14] [Info] Direct connect t.helper.2345.cc:80
+[2019-01-09 18:42:16] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:17] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:17] [Info] Disconnect github.githubassets.com:443
+[2019-01-09 18:42:17] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-01-09 18:42:19] [Info] Disconnect github.com:443
+[2019-01-09 18:42:19] [Info] Disconnect github.com:443
+[2019-01-09 18:42:19] [Info] Disconnect clients1.google.com:443
+[2019-01-09 18:42:19] [Info] Disconnect live.github.com:443
+[2019-01-09 18:42:20] [Info] Disconnect avatars0.githubusercontent.com:443
+[2019-01-09 18:42:22] [Info] Disconnect github.com:443
+[2019-01-09 18:42:22] [Info] Disconnect collector.githubapp.com:443
+[2019-01-09 18:42:22] [Info] Disconnect github.com:443
+[2019-01-09 18:42:23] [Info] Disconnect live.github.com:443
+[2019-01-09 18:42:23] [Info] Disconnect avatars3.githubusercontent.com:443
+[2019-01-09 18:42:23] [Info] Disconnect api.github.com:443
+[2019-01-09 18:42:23] [Info] Disconnect api.github.com:443
+[2019-01-09 18:42:27] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:33] [Info] Connect officeclient.microsoft.com:443
+[2019-01-09 18:42:34] [Info] Connect config.edge.skype.com:443
+[2019-01-09 18:42:34] [Info] Connect client-office365-tas.msedge.net:443
+[2019-01-09 18:42:34] [Info] Connect ocws.officeapps.live.com:443
+[2019-01-09 18:42:34] [Info] Connect ocws.officeapps.live.com:443
+[2019-01-09 18:42:34] [Info] Connect roaming.officeapps.live.com:443
+[2019-01-09 18:42:35] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:35] [Info] Connect login.live.com:443
+[2019-01-09 18:42:36] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:37] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-01-09 18:42:37] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:37] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:37] [Info] Connect messaging.office.com:443
+[2019-01-09 18:42:37] [Info] Connect messaging.office.com:443
+[2019-01-09 18:42:37] [Info] Connect messaging.office.com:443
+[2019-01-09 18:42:37] [Info] Connect messaging.office.com:443
+[2019-01-09 18:42:37] [Info] Connect messaging.office.com:443
+[2019-01-09 18:42:38] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:38] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:40] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:41] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:44] [Info] Disconnect officeclient.microsoft.com:443
+[2019-01-09 18:42:45] [Info] Disconnect config.edge.skype.com:443
+[2019-01-09 18:42:45] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:45] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-01-09 18:42:45] [Info] Disconnect ocws.officeapps.live.com:443
+[2019-01-09 18:42:45] [Info] Disconnect client-office365-tas.msedge.net:443
+[2019-01-09 18:42:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:47] [Info] Disconnect login.live.com:443
+[2019-01-09 18:42:48] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:48] [Info] Disconnect messaging.office.com:443
+[2019-01-09 18:42:48] [Info] Disconnect messaging.office.com:443
+[2019-01-09 18:42:48] [Info] Disconnect messaging.office.com:443
+[2019-01-09 18:42:48] [Info] Disconnect messaging.office.com:443
+[2019-01-09 18:42:48] [Info] Disconnect messaging.office.com:443
+[2019-01-09 18:42:49] [Info] Connect roaming.officeapps.live.com:443
+[2019-01-09 18:42:50] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:52] [Info] Disconnect roaming.officeapps.live.com:443
+[2019-01-09 18:42:53] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:42:54] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:42:58] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:42:59] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:00] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:05] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:06] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:10] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:14] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:15] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:21] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:22] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:25] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:29] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:30] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:36] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:37] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:39] [Info] Connect nexusrules.officeapps.live.com:443
+[2019-01-09 18:43:46] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:43:51] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2019-01-09 18:43:55] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:43:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:44:02] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:44:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:44:10] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:44:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:44:16] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:44:17] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:44:22] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:22] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:22] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:24] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:44:24] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:24] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:24] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2019-01-09 18:44:25] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-09 18:44:32] [Info] Direct connect 127.0.0.1:20335
+[2019-01-09 18:44:33] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 11:53:26] ShadowsocksR started on port 1080
+[2019-01-15 11:53:27] [Info] Direct connect 127.0.0.1:20335
+[2019-01-15 11:53:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:20335
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 11:53:36] [Info] Connect raw.githubusercontent.com:443
+[2019-01-23 18:38:27] ShadowsocksR started on port 1080
+[2019-01-23 18:38:36] [Info] Connect raw.githubusercontent.com:443
+[2019-01-23 18:38:37] [Error] connect to update server error
+[2019-01-23 18:38:48] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-23 18:40:12] [Info] Connect ssl.gstatic.com:443
+[2019-01-23 18:40:12] [Info] Connect www.google.com:443
+[2019-01-23 18:40:12] [Info] Connect www.gstatic.com:443
+[2019-01-23 18:40:13] [Info] Connect www.google.com:443
+[2019-01-23 18:40:13] [Info] Connect www.google.com:443
+[2019-01-23 18:40:13] [Info] Connect www.google.com:443
+[2019-01-23 18:40:13] [Info] Connect www.google.com:443
+[2019-01-23 18:40:15] [Info] Connect www.google.com:443
+[2019-01-23 18:40:17] [Info] Connect www.google.com:443
+[2019-01-23 18:40:20] [Info] Connect safebrowsing.googleapis.com:443
+[2019-01-23 18:40:23] [Info] Disconnect ssl.gstatic.com:443
+[2019-01-23 18:40:23] [Info] Disconnect www.gstatic.com:443
+[2019-01-23 18:40:24] [Info] Disconnect www.google.com:443
+[2019-01-23 18:40:24] [Info] Disconnect www.google.com:443
+[2019-01-23 18:40:24] [Info] Disconnect www.google.com:443
+[2019-01-23 18:40:26] [Info] Disconnect www.google.com:443
+[2019-01-23 18:40:28] [Info] Disconnect www.google.com:443
+[2019-01-23 18:40:31] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-01-23 18:43:36] [Info] Connect raw.githubusercontent.com:443
+[2019-01-23 18:43:37] [Error] connect to update server error
+[2019-01-23 18:43:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-23 18:46:34] [Info] Connect clients1.google.com:443
+[2019-01-23 18:46:45] [Info] Disconnect clients1.google.com:443
+[2019-01-23 18:58:50] [Info] Connect platform.twitter.com:443
+[2019-01-23 18:58:50] [Info] Connect platform.twitter.com:443
+[2019-01-23 18:58:50] [Info] Connect platform.twitter.com:443
+[2019-01-23 18:58:51] [Info] Connect cdn-images-1.medium.com:443
+[2019-01-23 18:58:51] [Info] Connect cdn-images-1.medium.com:443
+[2019-01-23 18:58:54] [Info] Connect syndication.twitter.com:443
+[2019-01-23 18:58:54] [Info] Connect cdn.syndication.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:55] [Info] Connect pbs.twimg.com:443
+[2019-01-23 18:58:56] [Info] Connect ton.twimg.com:443
+[2019-01-23 18:59:02] [Info] Disconnect platform.twitter.com:443
+[2019-01-23 18:59:02] [Info] Disconnect platform.twitter.com:443
+[2019-01-23 18:59:03] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-01-23 18:59:03] [Info] Disconnect cdn-images-1.medium.com:443
+[2019-01-23 18:59:05] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:06] [Info] Disconnect pbs.twimg.com:443
+[2019-01-23 18:59:08] [Info] Disconnect ton.twimg.com:443
+[2019-01-23 18:59:13] [Info] Disconnect syndication.twitter.com:443
+[2019-01-23 18:59:14] [Info] Disconnect platform.twitter.com:443
+[2019-01-23 18:59:25] [Info] Connect cdn.syndication.twimg.com:443
+[2019-01-23 18:59:37] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-01-23 18:59:56] [Info] Connect cdn.syndication.twimg.com:443
+[2019-01-23 19:00:07] [Info] Disconnect cdn.syndication.twimg.com:443
+[2019-01-23 19:02:38] ShadowsocksR started on port 1080

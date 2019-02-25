@@ -1,0 +1,23 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "0ba5e2f63e59e49b64a6e60d13eb9c74011066b6",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getVersion",
+            "parameters": []
+        },
+        {
+            "name": "getMerkleRoot",
+            "parameters": []
+        },
+        {
+            "name": "getConsensusData",
+            "parameters": []
+        },
+        {
+            "name": "getNextConsensus",
+            "parameters": []
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "2b1d17ce8e8f70c05df4d8a0e9118fddb2a330f7",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "transferOngToContract",
+            "parameters": []
+        },
+        {
+            "name": "checkSelfContractONGAmount",
+            "parameters": []
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "avm": {
+        "name": "app",
+        "hash": "a01178f3ec58920a5531c5093995eaf02723668e"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\app\\app.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 13,
+            "end": 64,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 65,
+            "end": 83,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 86,
+            "end": 92,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 95,
+            "end": 98,
+            "file": 1,
+            "method": "checkName",
+            "file_line_no": 11
+        },
+        {
+            "start": 99,
+            "end": 101,
+            "file": 1,
+            "method": "checkName",
+            "file_line_no": 13
+        },
+        {
+            "start": 102,
+            "end": 153,
+            "file": 1,
+            "method": "checkName",
+            "file_line_no": 6
+        },
+        {
+            "start": 154,
+            "end": 181,
+            "file": 1,
+            "method": "checkName",
+            "file_line_no": 17
+        },
+        {
+            "start": 154,
+            "end": 233,
+            "file": 1,
+            "method": "checkName",
+            "file_line_no": 18
+        }
+    ]
+}

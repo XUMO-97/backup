@@ -1,0 +1,23 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "c8f180e795409b475383af4bd07db25ef89335f7",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getContext",
+            "parameters": []
+        },
+        {
+            "name": "put",
+            "parameters": []
+        },
+        {
+            "name": "get",
+            "parameters": []
+        },
+        {
+            "name": "delete",
+            "parameters": []
+        }
+    ]
+}

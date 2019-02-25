@@ -1,0 +1,27 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "MigrateContract",
+            "VarMap": {
+                "code": 0,
+                "res": 1,
+                "res1": 2
+            }
+        },
+        {
+            "Method": "getScript",
+            "VarMap": {
+                "script": 0,
+                "contract": 1,
+                "sc": 2
+            }
+        }
+    ]
+}

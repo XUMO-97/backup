@@ -1,0 +1,15 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "2fdf13501e584e59765ce11e72c7f06c45297738",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getType",
+            "parameters": []
+        },
+        {
+            "name": "getAttributes",
+            "parameters": []
+        }
+    ]
+}

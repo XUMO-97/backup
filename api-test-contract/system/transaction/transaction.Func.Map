@@ -1,0 +1,19 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "getHash",
+            "VarMap": {
+                "Hash": 0,
+                "Block": 1,
+                "tx": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "d46d02a21f3915dba0096bd2b2f9ebc44140d646",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getStorageContext",
+            "parameters": []
+        },
+        {
+            "name": "destroy",
+            "parameters": []
+        }
+    ]
+}

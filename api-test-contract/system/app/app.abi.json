@@ -1,0 +1,11 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "a01178f3ec58920a5531c5093995eaf02723668e",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "checkName",
+            "parameters": []
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "getVersion",
+            "VarMap": {
+                "Hash": 0,
+                "header": 1,
+                "version": 2
+            }
+        },
+        {
+            "Method": "getMerkleRoot",
+            "VarMap": {
+                "Hash": 0,
+                "header": 1,
+                "merkleRoot": 2
+            }
+        },
+        {
+            "Method": "getConsensusData",
+            "VarMap": {
+                "Hash": 0,
+                "header": 1,
+                "ConsensusData": 2
+            }
+        },
+        {
+            "Method": "getNextConsensus",
+            "VarMap": {
+                "Hash": 0,
+                "header": 1,
+                "NextConsensus": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "0d5b6914da2554afb61e4829d130c8f4b9c45330",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "init",
+            "parameters": [
+                {
+                    "name": "tokenRCH",
+                    "type": ""
+                },
+                {
+                    "name": "plcrRCH",
+                    "type": ""
+                },
+                {
+                    "name": "paramRCH",
+                    "type": ""
+                },
+                {
+                    "name": "name",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "apply",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "listingHash",
+                    "type": ""
+                },
+                {
+                    "name": "amount",
+                    "type": ""
+                },
+                {
+                    "name": "data",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "deposit",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "listingHash",
+                    "type": ""
+                },
+                {
+                    "name": "amount",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "withdraw",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "listingHash",
+                    "type": ""
+                },
+                {
+                    "name": "amount",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "exit",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challenge",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "listingHash",
+                    "type": ""
+                },
+                {
+                    "name": "data",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "updateStatus",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "updateStatuses",
+            "parameters": [
+                {
+                    "name": "listingHashList",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "claimReward",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "claimRewards",
+            "parameters": [
+                {
+                    "name": "accountList",
+                    "type": ""
+                },
+                {
+                    "name": "challengeIDList",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "voterReward",
+            "parameters": [
+                {
+                    "name": "voter",
+                    "type": ""
+                },
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "canBeWhitelisted",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "isWhitelisted",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getData",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "appWasMade",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challengeExists",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challengeCanBeResolved",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "determineReward",
+            "parameters": [
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "tokenClaims",
+            "parameters": [
+                {
+                    "name": "challengeID",
+                    "type": ""
+                },
+                {
+                    "name": "voter",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "barrier",
+            "parameters": [
+                {
+                    "name": "listingHash",
+                    "type": ""
+                },
+                {
+                    "name": "helperSalt",
+                    "type": ""
+                },
+                {
+                    "name": "mode",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getTokenRCH",
+            "parameters": []
+        },
+        {
+            "name": "getPLCRRCH",
+            "parameters": []
+        },
+        {
+            "name": "getParamRCH",
+            "parameters": []
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "29d4d9a4b08e284064ee4f911d0747c12f1d1969",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "init",
+            "parameters": []
+        },
+        {
+            "name": "setParameters",
+            "parameters": [
+                {
+                    "name": "dividendForBankersPercentage",
+                    "type": ""
+                },
+                {
+                    "name": "runningVaultPercentage",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "withdrawCommission",
+            "parameters": []
+        },
+        {
+            "name": "migrateContract",
+            "parameters": [
+                {
+                    "name": "code",
+                    "type": ""
+                },
+                {
+                    "name": "needStorage",
+                    "type": ""
+                },
+                {
+                    "name": "name",
+                    "type": ""
+                },
+                {
+                    "name": "version",
+                    "type": ""
+                },
+                {
+                    "name": "author",
+                    "type": ""
+                },
+                {
+                    "name": "email",
+                    "type": ""
+                },
+                {
+                    "name": "description",
+                    "type": ""
+                },
+                {
+                    "name": "newReversedContractHash",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "bankerInvest",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "ongAmount",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "bankerWithdraw",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "bankerExit",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "bet",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "ongAmount",
+                    "type": ""
+                },
+                {
+                    "name": "number",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getCurrentRound",
+            "parameters": []
+        },
+        {
+            "name": "getDividendForBankersPercentage",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getRunningVaultPercentage",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getTotalONG",
+            "parameters": []
+        },
+        {
+            "name": "getCommission",
+            "parameters": []
+        },
+        {
+            "name": "getRoundGameStatus",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankersInvestment",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getIncreasingRunnVault",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getRunningVault",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getRealTimeRunningVault",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankersList",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                },
+                {
+                    "name": "includeExitBankers",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankerInvestment",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                },
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankerBalanceInRunVault",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                },
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getProfitPerInvestmentForBankers",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getProfitPerRunningVaultShare",
+            "parameters": [
+                {
+                    "name": "roundNumber",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankersLastTimeUpdateDividendRound",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankersLastTimeUpdateEarnRound",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getRunVaultShare",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankerEarning",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getBankerDividend",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

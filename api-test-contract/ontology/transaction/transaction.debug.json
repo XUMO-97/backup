@@ -1,0 +1,193 @@
+{
+    "avm": {
+        "name": "transaction",
+        "hash": "2fdf13501e584e59765ce11e72c7f06c45297738"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\ontology\\transaction\\transaction.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 13,
+            "end": 29,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 32,
+            "end": 38,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 41,
+            "end": 63,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 66,
+            "end": 72,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 75,
+            "end": 78,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 13
+        },
+        {
+            "start": 79,
+            "end": 81,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 15
+        },
+        {
+            "start": 82,
+            "end": 124,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 16
+        },
+        {
+            "start": 125,
+            "end": 160,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 17
+        },
+        {
+            "start": 161,
+            "end": 198,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 18
+        },
+        {
+            "start": 199,
+            "end": 236,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 19
+        },
+        {
+            "start": 237,
+            "end": 240,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 20
+        },
+        {
+            "start": 263,
+            "end": 266,
+            "file": 1,
+            "method": "getType",
+            "file_line_no": 21
+        },
+        {
+            "start": 289,
+            "end": 292,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 22
+        },
+        {
+            "start": 293,
+            "end": 295,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 24
+        },
+        {
+            "start": 296,
+            "end": 338,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 25
+        },
+        {
+            "start": 339,
+            "end": 374,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 26
+        },
+        {
+            "start": 375,
+            "end": 416,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 27
+        },
+        {
+            "start": 417,
+            "end": 420,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 28
+        },
+        {
+            "start": 443,
+            "end": 455,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 29
+        },
+        {
+            "start": 458,
+            "end": 495,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 30
+        },
+        {
+            "start": 496,
+            "end": 539,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 31
+        },
+        {
+            "start": 540,
+            "end": 543,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 32
+        },
+        {
+            "start": 566,
+            "end": 570,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 33
+        },
+        {
+            "start": 566,
+            "end": 576,
+            "file": 1,
+            "method": "getAttributes",
+            "file_line_no": 34
+        }
+    ]
+}

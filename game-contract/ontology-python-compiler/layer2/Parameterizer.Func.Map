@@ -1,0 +1,406 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "OntCversion": 0,
+                "TOKEN_CONTRACT_REVERSED_HASH": 1,
+                "PLCR_CONTRACT_REVERSED_HASH": 2,
+                "Owner": 3,
+                "SelfContractHash": 4,
+                "MIN_DEPOSIT_KEY": 5,
+                "P_MIN_DEPOSIT_KEY": 6,
+                "APPLY_STAGE_LEN_KEY": 7,
+                "P_APPLY_STAGE_LEN_KEY": 8,
+                "COMMIT_STAGE_LEN_KEY": 9,
+                "P_COMMIT_STAGE_LEN_KEY": 10,
+                "REVEAL_STAGE_LEN_KEY": 11,
+                "P_REVEAL_STAGE_LEN_KEY": 12,
+                "DISPENSATION_PCT_KEY": 13,
+                "P_DISPENSATION_PCT_KEY": 14,
+                "VOTE_QUORUM_KEY": 15,
+                "P_VOTE_QUORUM_KEY": 16,
+                "OPERATOR_KEY": 17,
+                "PROPOSAL_MAP_KEY": 18,
+                "CHALLENGE_MAP_KEY": 19,
+                "CHALLENGE_TOKEN_CLAIMS_KEY": 20,
+                "ProcessBy": 21
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "tokenRCH": 3,
+                "plcrRCH": 4,
+                "parametersList": 5,
+                "operator": 6,
+                "Function_Call_Arglen###FixedName": 7,
+                "name": 8,
+                "value": 9,
+                "challenger": 10,
+                "propID": 11,
+                "account": 12,
+                "challengeID": 13,
+                "accountList": 14,
+                "challengeIDList": 15,
+                "voter": 16
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "start": 3,
+                "stop": 4,
+                "step": 5,
+                "lst": 6,
+                "iteri": 7
+            }
+        },
+        {
+            "Method": "int",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "scale": 3,
+                "slen": 4,
+                "n": 5,
+                "num": 6,
+                "elt_p0": 7,
+                "elt_p1": 8,
+                "elt_p2": 9,
+                "ForIndexPrefix_Var###0": 10,
+                "Function_Call_Arglen###FixedName": 11,
+                "ForIndexPrefix_Var###1": 12,
+                "ForIndexPrefix_Var###2": 13,
+                "i": 14,
+                "cur_char": 15
+            }
+        },
+        {
+            "Method": "elt_in",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "l": 2,
+                "elt": 3,
+                "ForIndexPrefix_Var###0": 4,
+                "ForIndexPrefix_Var###1": 5,
+                "ForIndexPrefix_Var###2": 6,
+                "i": 7
+            }
+        },
+        {
+            "Method": "str",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg_int": 2,
+                "Function_Call_Arglen###FixedName": 3
+            }
+        },
+        {
+            "Method": "str_scale",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg_int": 2,
+                "scale": 3,
+                "negtive": 4,
+                "res": 5,
+                "trans_map": 6,
+                "iter_t": 7,
+                "t": 8
+            }
+        },
+        {
+            "Method": "init",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "tokenRCH": 2,
+                "plcrRCH": 3,
+                "parametersList": 4,
+                "operator": 5
+            }
+        },
+        {
+            "Method": "proposeReparameterization",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "name": 2,
+                "value": 3,
+                "deposit": 4,
+                "Function_Call_Arglen###FixedName": 5,
+                "propID": 6,
+                "pApplyStageLen": 7,
+                "pCommitStageLen": 8,
+                "pRevealStageLen": 9,
+                "appExpiry": 10,
+                "proposal": 11,
+                "tokenHash": 12,
+                "res": 13
+            }
+        },
+        {
+            "Method": "challengeReparameterization",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "challenger": 2,
+                "propID": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "proposalInfo": 5,
+                "proposal": 6,
+                "deposit": 7,
+                "plcrHash": 8,
+                "pVoteQuorum": 9,
+                "pCommitStageLen": 10,
+                "pRevealStageLen": 11,
+                "params": 12,
+                "pollID": 13,
+                "pDispensationPct": 14,
+                "challenge": 15,
+                "tokenHash": 16,
+                "res": 17,
+                "endTimeList": 18,
+                "commitEndTime": 19,
+                "revealEndTime": 20
+            }
+        },
+        {
+            "Method": "processProposal",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "propID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "proposalInfo": 4,
+                "proposal": 5,
+                "propOwner": 6,
+                "propDeposit": 7,
+                "tokenHash": 8,
+                "name": 9,
+                "value": 10,
+                "params": 11,
+                "res": 12,
+                "dispensationPct": 13,
+                "pDispensationPct": 14,
+                "pApplyStageLen": 15,
+                "pCommitStageLen": 16,
+                "pRevealStageLen": 17,
+                "useLess": 18
+            }
+        },
+        {
+            "Method": "claimReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "challengeID": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "tokenClaim": 5,
+                "challengeInfo": 6,
+                "challenge": 7,
+                "plcrHash": 8,
+                "voterTokens": 9,
+                "reward": 10,
+                "tokenHash": 11,
+                "params": 12,
+                "res": 13
+            }
+        },
+        {
+            "Method": "claimRewards",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "accountList": 2,
+                "challengeIDList": 3,
+                "listLen": 4,
+                "index": 5,
+                "account": 6,
+                "challengeID": 7,
+                "Function_Call_Arglen###FixedName": 8
+            }
+        },
+        {
+            "Method": "voterReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "voter": 2,
+                "challengeID": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "challengeInfo": 5,
+                "challenge": 6,
+                "winningTokens": 7,
+                "rewardPoll": 8,
+                "plcrHash": 9,
+                "voterTokens": 10
+            }
+        },
+        {
+            "Method": "canBeSet",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "propID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "proposalInfo": 4,
+                "proposal": 5,
+                "now": 6,
+                "afterAppExpiry": 7,
+                "beforeProcessBy": 8,
+                "noChallengeID": 9
+            }
+        },
+        {
+            "Method": "propExists",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "propID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "proposalInfo": 4,
+                "proposal": 5
+            }
+        },
+        {
+            "Method": "challengeCanBeResolved",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "propID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "proposalInfo": 4,
+                "proposal": 5,
+                "challengeID": 6,
+                "challengeInfo": 7,
+                "challenge": 8,
+                "challengeIDGTZ": 9,
+                "challengeNotResolved": 10,
+                "plcrHash": 11,
+                "votePollEndedRes": 12
+            }
+        },
+        {
+            "Method": "challengeWinnerReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "challengeID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "challengeInfo": 4,
+                "challenge": 5,
+                "stake": 6,
+                "plcrHash": 7,
+                "totalNumberOfTokensForWinningOption": 8,
+                "rewardPool": 9
+            }
+        },
+        {
+            "Method": "get",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "name": 2,
+                "ggg": 3
+            }
+        },
+        {
+            "Method": "getOperator",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "tokenClaims",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "challengeID": 2,
+                "voter": 3,
+                "Function_Call_Arglen###FixedName": 4
+            }
+        },
+        {
+            "Method": "_resolveChallenge",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "propID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "proposalInfo": 4,
+                "proposal": 5,
+                "challengeID": 6,
+                "challengeInfo": 7,
+                "challenge": 8,
+                "reward": 9,
+                "plcrHash": 10,
+                "totalNumberOfTokensForWinningOption": 11,
+                "params": 12,
+                "isPassedRes": 13,
+                "tokenHash": 14,
+                "res": 15
+            }
+        },
+        {
+            "Method": "_concatKey",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "str1": 2,
+                "str2": 3
+            }
+        },
+        {
+            "Method": "Add",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        },
+        {
+            "Method": "Sub",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3
+            }
+        },
+        {
+            "Method": "Mul",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        },
+        {
+            "Method": "Div",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        }
+    ]
+}

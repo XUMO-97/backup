@@ -1,0 +1,14 @@
+1. About PLCRVoting Contract:
+
+1.1 https://github.com/ConsenSys/PLCRVoting/blob/master/contracts/PLCRVoting.sol#L296
+1.2 https://medium.com/metax-publication/a-walkthrough-of-plcr-voting-in-solidity-92420bd5b87c
+
+
+2. About Voting protocal:
+
+2.1 https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119/
+
+
+3. About AdChainRegistry
+
+3.1 https://github.com/AdChain/AdChainRegistry

@@ -1,0 +1,270 @@
+{
+    "avm": {
+        "name": "storage",
+        "hash": "c8f180e795409b475383af4bd07db25ef89335f7"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\storage\\storage.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 13,
+            "end": 44,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 45,
+            "end": 64,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 67,
+            "end": 73,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 76,
+            "end": 88,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 91,
+            "end": 97,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 100,
+            "end": 112,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 115,
+            "end": 121,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 124,
+            "end": 139,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 142,
+            "end": 148,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 151,
+            "end": 154,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 17
+        },
+        {
+            "start": 155,
+            "end": 157,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 21
+        },
+        {
+            "start": 158,
+            "end": 189,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 19
+        },
+        {
+            "start": 190,
+            "end": 241,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 22
+        },
+        {
+            "start": 242,
+            "end": 280,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 23
+        },
+        {
+            "start": 281,
+            "end": 323,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 24
+        },
+        {
+            "start": 324,
+            "end": 327,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 25
+        },
+        {
+            "start": 350,
+            "end": 353,
+            "file": 1,
+            "method": "getContext",
+            "file_line_no": 26
+        },
+        {
+            "start": 376,
+            "end": 379,
+            "file": 1,
+            "method": "put",
+            "file_line_no": 27
+        },
+        {
+            "start": 380,
+            "end": 382,
+            "file": 1,
+            "method": "put",
+            "file_line_no": 29
+        },
+        {
+            "start": 383,
+            "end": 414,
+            "file": 1,
+            "method": "put",
+            "file_line_no": 19
+        },
+        {
+            "start": 415,
+            "end": 428,
+            "file": 1,
+            "method": "put",
+            "file_line_no": 30
+        },
+        {
+            "start": 448,
+            "end": 451,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 31
+        },
+        {
+            "start": 452,
+            "end": 454,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 33
+        },
+        {
+            "start": 455,
+            "end": 486,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 19
+        },
+        {
+            "start": 487,
+            "end": 500,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 34
+        },
+        {
+            "start": 520,
+            "end": 551,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 35
+        },
+        {
+            "start": 552,
+            "end": 555,
+            "file": 1,
+            "method": "get",
+            "file_line_no": 36
+        },
+        {
+            "start": 578,
+            "end": 581,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 37
+        },
+        {
+            "start": 582,
+            "end": 584,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 39
+        },
+        {
+            "start": 585,
+            "end": 616,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 19
+        },
+        {
+            "start": 617,
+            "end": 630,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 40
+        },
+        {
+            "start": 650,
+            "end": 657,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 41
+        },
+        {
+            "start": 680,
+            "end": 711,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 42
+        },
+        {
+            "start": 712,
+            "end": 715,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 43
+        },
+        {
+            "start": 712,
+            "end": 741,
+            "file": 1,
+            "method": "delete",
+            "file_line_no": 44
+        }
+    ]
+}

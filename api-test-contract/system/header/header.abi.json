@@ -1,0 +1,23 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "b6ef26e95781531c8b1f45088b7cbb9be3847c9d",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getIndex",
+            "parameters": []
+        },
+        {
+            "name": "getHash",
+            "parameters": []
+        },
+        {
+            "name": "getPrevHash",
+            "parameters": []
+        },
+        {
+            "name": "getTimestamp",
+            "parameters": []
+        }
+    ]
+}

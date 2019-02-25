@@ -1,0 +1,164 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "8286944325886aa82e2876b655dc8f77aa9ef24b",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "init",
+            "parameters": [
+                {
+                    "name": "tokenRCH",
+                    "type": ""
+                },
+                {
+                    "name": "plcrRCH",
+                    "type": ""
+                },
+                {
+                    "name": "parametersList",
+                    "type": ""
+                },
+                {
+                    "name": "operator",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "proposeReparameterization",
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": ""
+                },
+                {
+                    "name": "value",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challengeReparameterization",
+            "parameters": [
+                {
+                    "name": "challenger",
+                    "type": ""
+                },
+                {
+                    "name": "propID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "processProposal",
+            "parameters": [
+                {
+                    "name": "propID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "claimReward",
+            "parameters": [
+                {
+                    "name": "account",
+                    "type": ""
+                },
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "claimRewards",
+            "parameters": [
+                {
+                    "name": "accountList",
+                    "type": ""
+                },
+                {
+                    "name": "challengeIDList",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "voterReward",
+            "parameters": [
+                {
+                    "name": "voter",
+                    "type": ""
+                },
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "canBeSet",
+            "parameters": [
+                {
+                    "name": "propID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "propExists",
+            "parameters": [
+                {
+                    "name": "propID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challengeCanBeResolved",
+            "parameters": [
+                {
+                    "name": "propID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "challengeWinnerReward",
+            "parameters": [
+                {
+                    "name": "challengeID",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "get",
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "getOperator",
+            "parameters": []
+        },
+        {
+            "name": "tokenClaims",
+            "parameters": [
+                {
+                    "name": "challengeID",
+                    "type": ""
+                },
+                {
+                    "name": "voter",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

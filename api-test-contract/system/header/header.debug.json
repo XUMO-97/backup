@@ -1,0 +1,284 @@
+{
+    "avm": {
+        "name": "header",
+        "hash": "b6ef26e95781531c8b1f45088b7cbb9be3847c9d"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\system\\header\\header.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 13,
+            "end": 30,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 33,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 42,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 61,
+            "end": 67,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 70,
+            "end": 90,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 93,
+            "end": 99,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 102,
+            "end": 123,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 126,
+            "end": 132,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 135,
+            "end": 138,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 15
+        },
+        {
+            "start": 139,
+            "end": 141,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 17
+        },
+        {
+            "start": 142,
+            "end": 175,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 18
+        },
+        {
+            "start": 176,
+            "end": 212,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 19
+        },
+        {
+            "start": 213,
+            "end": 244,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 20
+        },
+        {
+            "start": 245,
+            "end": 248,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 21
+        },
+        {
+            "start": 271,
+            "end": 274,
+            "file": 1,
+            "method": "getIndex",
+            "file_line_no": 22
+        },
+        {
+            "start": 297,
+            "end": 300,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 23
+        },
+        {
+            "start": 301,
+            "end": 303,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 25
+        },
+        {
+            "start": 304,
+            "end": 337,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 26
+        },
+        {
+            "start": 338,
+            "end": 374,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 27
+        },
+        {
+            "start": 375,
+            "end": 405,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 28
+        },
+        {
+            "start": 406,
+            "end": 409,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 29
+        },
+        {
+            "start": 432,
+            "end": 435,
+            "file": 1,
+            "method": "getHash",
+            "file_line_no": 30
+        },
+        {
+            "start": 458,
+            "end": 461,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 31
+        },
+        {
+            "start": 462,
+            "end": 464,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 33
+        },
+        {
+            "start": 465,
+            "end": 498,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 34
+        },
+        {
+            "start": 499,
+            "end": 535,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 35
+        },
+        {
+            "start": 536,
+            "end": 570,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 36
+        },
+        {
+            "start": 571,
+            "end": 574,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 37
+        },
+        {
+            "start": 597,
+            "end": 600,
+            "file": 1,
+            "method": "getPrevHash",
+            "file_line_no": 38
+        },
+        {
+            "start": 623,
+            "end": 626,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 39
+        },
+        {
+            "start": 627,
+            "end": 629,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 41
+        },
+        {
+            "start": 630,
+            "end": 663,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 42
+        },
+        {
+            "start": 664,
+            "end": 700,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 43
+        },
+        {
+            "start": 701,
+            "end": 736,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 44
+        },
+        {
+            "start": 737,
+            "end": 740,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 45
+        },
+        {
+            "start": 763,
+            "end": 766,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 46
+        },
+        {
+            "start": 763,
+            "end": 792,
+            "file": 1,
+            "method": "getTimestamp",
+            "file_line_no": 47
+        }
+    ]
+}

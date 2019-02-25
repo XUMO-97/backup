@@ -1,0 +1,11 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "f1aa029cb5a8aa7ea3095f9a1180c3b2c102ebad",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getHash",
+            "parameters": []
+        }
+    ]
+}

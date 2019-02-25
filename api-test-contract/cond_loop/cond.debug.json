@@ -1,0 +1,179 @@
+{
+    "avm": {
+        "name": "cond",
+        "hash": "5f855519035230be99c2b5ab4d355851d43cddc5"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\cond_loop\\cond.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 1
+        },
+        {
+            "start": 13,
+            "end": 27,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 2
+        },
+        {
+            "start": 30,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 3
+        },
+        {
+            "start": 40,
+            "end": 49,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 4
+        },
+        {
+            "start": 52,
+            "end": 67,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 5
+        },
+        {
+            "start": 70,
+            "end": 79,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 80,
+            "end": 89,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 90,
+            "end": 102,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 105,
+            "end": 108,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 9
+        },
+        {
+            "start": 109,
+            "end": 116,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 12
+        },
+        {
+            "start": 117,
+            "end": 122,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 13
+        },
+        {
+            "start": 123,
+            "end": 128,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 14
+        },
+        {
+            "start": 129,
+            "end": 140,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 15
+        },
+        {
+            "start": 143,
+            "end": 154,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 16
+        },
+        {
+            "start": 155,
+            "end": 165,
+            "file": 1,
+            "method": "While",
+            "file_line_no": 17
+        },
+        {
+            "start": 168,
+            "end": 173,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 18
+        },
+        {
+            "start": 174,
+            "end": 186,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 21
+        },
+        {
+            "start": 187,
+            "end": 198,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 22
+        },
+        {
+            "start": 201,
+            "end": 205,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 23
+        },
+        {
+            "start": 208,
+            "end": 219,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 24
+        },
+        {
+            "start": 222,
+            "end": 228,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 25
+        },
+        {
+            "start": 231,
+            "end": 234,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 27
+        },
+        {
+            "start": 231,
+            "end": 237,
+            "file": 1,
+            "method": "ifelse",
+            "file_line_no": 22
+        }
+    ]
+}

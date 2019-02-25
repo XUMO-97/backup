@@ -1,0 +1,15 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "60edf2d00438be19cbefaa5552c2e6c053523644",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "asReadOnly",
+            "parameters": []
+        },
+        {
+            "name": "put",
+            "parameters": []
+        }
+    ]
+}

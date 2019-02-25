@@ -1,0 +1,228 @@
+{
+    "avm": {
+        "name": "native",
+        "hash": "2b1d17ce8e8f70c05df4d8a0e9118fddb2a330f7"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\ontology\\native\\native.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 13,
+            "end": 86,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 87,
+            "end": 160,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 161,
+            "end": 212,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 213,
+            "end": 243,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 246,
+            "end": 252,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 255,
+            "end": 290,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 293,
+            "end": 299,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 302,
+            "end": 305,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 19
+        },
+        {
+            "start": 306,
+            "end": 308,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 21
+        },
+        {
+            "start": 309,
+            "end": 382,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 8
+        },
+        {
+            "start": 383,
+            "end": 456,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 9
+        },
+        {
+            "start": 457,
+            "end": 508,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 12
+        },
+        {
+            "start": 509,
+            "end": 542,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 22
+        },
+        {
+            "start": 565,
+            "end": 595,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 23
+        },
+        {
+            "start": 596,
+            "end": 644,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 24
+        },
+        {
+            "start": 645,
+            "end": 663,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 25
+        },
+        {
+            "start": 666,
+            "end": 687,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 26
+        },
+        {
+            "start": 710,
+            "end": 714,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 27
+        },
+        {
+            "start": 717,
+            "end": 737,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 29
+        },
+        {
+            "start": 760,
+            "end": 763,
+            "file": 1,
+            "method": "transferOngToContract",
+            "file_line_no": 30
+        },
+        {
+            "start": 764,
+            "end": 766,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 25
+        },
+        {
+            "start": 767,
+            "end": 769,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 32
+        },
+        {
+            "start": 770,
+            "end": 843,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 8
+        },
+        {
+            "start": 844,
+            "end": 917,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 9
+        },
+        {
+            "start": 918,
+            "end": 969,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 12
+        },
+        {
+            "start": 970,
+            "end": 986,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 33
+        },
+        {
+            "start": 987,
+            "end": 1032,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 35
+        },
+        {
+            "start": 1033,
+            "end": 1036,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 36
+        },
+        {
+            "start": 1033,
+            "end": 1064,
+            "file": 1,
+            "method": "checkSelfContractONGAmount",
+            "file_line_no": 37
+        }
+    ]
+}

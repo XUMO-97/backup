@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+build
+*.swp
+installed_contracts/
+conf/
+**/secrets.json
+coverage/
+coverage.json
+.vscode

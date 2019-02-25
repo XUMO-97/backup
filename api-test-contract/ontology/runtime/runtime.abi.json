@@ -1,0 +1,19 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "86a5c0ae691ebf9e95595b6343c615abd97100c1",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "BTA",
+            "parameters": []
+        },
+        {
+            "name": "ATB",
+            "parameters": []
+        },
+        {
+            "name": "getHash",
+            "parameters": []
+        }
+    ]
+}

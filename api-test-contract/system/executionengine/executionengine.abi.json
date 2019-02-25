@@ -1,0 +1,19 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "b1a94a4cba3a250ab19792f068323b2512ddcd60",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getScriptContainer",
+            "parameters": []
+        },
+        {
+            "name": "getExecutingScriptHash",
+            "parameters": []
+        },
+        {
+            "name": "getCallingScriptHash",
+            "parameters": []
+        }
+    ]
+}

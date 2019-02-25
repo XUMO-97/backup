@@ -1,0 +1,263 @@
+{
+    "avm": {
+        "name": "datatype",
+        "hash": "d04a94bb1ca4bff527f76becbba0a2a24088d89d"
+    },
+    "compiler": {
+        "name": "Ontology-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\api-test-contract\\datatype\\datatype.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 12,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 3
+        },
+        {
+            "start": 13,
+            "end": 27,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 4
+        },
+        {
+            "start": 30,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 5
+        },
+        {
+            "start": 42,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 61,
+            "end": 67,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 70,
+            "end": 88,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 91,
+            "end": 100,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 101,
+            "end": 110,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 111,
+            "end": 123,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 126,
+            "end": 141,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 144,
+            "end": 150,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 153,
+            "end": 172,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 175,
+            "end": 184,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 185,
+            "end": 194,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 195,
+            "end": 204,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 205,
+            "end": 220,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 223,
+            "end": 238,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 241,
+            "end": 247,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 250,
+            "end": 253,
+            "file": 1,
+            "method": "Array",
+            "file_line_no": 21
+        },
+        {
+            "start": 254,
+            "end": 261,
+            "file": 1,
+            "method": "Array",
+            "file_line_no": 23
+        },
+        {
+            "start": 262,
+            "end": 268,
+            "file": 1,
+            "method": "Boolean",
+            "file_line_no": 24
+        },
+        {
+            "start": 269,
+            "end": 271,
+            "file": 1,
+            "method": "Boolean",
+            "file_line_no": 26
+        },
+        {
+            "start": 272,
+            "end": 275,
+            "file": 1,
+            "method": "Bytearray",
+            "file_line_no": 27
+        },
+        {
+            "start": 276,
+            "end": 288,
+            "file": 1,
+            "method": "Bytearray",
+            "file_line_no": 29
+        },
+        {
+            "start": 289,
+            "end": 302,
+            "file": 1,
+            "method": "Intger",
+            "file_line_no": 30
+        },
+        {
+            "start": 303,
+            "end": 305,
+            "file": 1,
+            "method": "Intger",
+            "file_line_no": 32
+        },
+        {
+            "start": 306,
+            "end": 309,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 33
+        },
+        {
+            "start": 310,
+            "end": 327,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 35
+        },
+        {
+            "start": 328,
+            "end": 336,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 36
+        },
+        {
+            "start": 337,
+            "end": 343,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 37
+        },
+        {
+            "start": 344,
+            "end": 350,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 38
+        },
+        {
+            "start": 351,
+            "end": 357,
+            "file": 1,
+            "method": "Returntype",
+            "file_line_no": 39
+        },
+        {
+            "start": 358,
+            "end": 363,
+            "file": 1,
+            "method": "String",
+            "file_line_no": 40
+        },
+        {
+            "start": 364,
+            "end": 366,
+            "file": 1,
+            "method": "String",
+            "file_line_no": 42
+        },
+        {
+            "start": 364,
+            "end": 381,
+            "file": 1,
+            "method": "String",
+            "file_line_no": 43
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "ad116519401033e4d930de96f352737f66b2fffa",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getHeight",
+            "parameters": []
+        },
+        {
+            "name": "getHeader",
+            "parameters": []
+        },
+        {
+            "name": "getBlock",
+            "parameters": []
+        },
+        {
+            "name": "getTransaction",
+            "parameters": []
+        },
+        {
+            "name": "getContract",
+            "parameters": []
+        },
+        {
+            "name": "getTransactionHeight",
+            "parameters": []
+        }
+    ]
+}

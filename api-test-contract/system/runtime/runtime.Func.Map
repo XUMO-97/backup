@@ -1,0 +1,47 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "Hash": 2
+            }
+        },
+        {
+            "Method": "getTrigger",
+            "VarMap": {
+                "trigger": 0
+            }
+        },
+        {
+            "Method": "checkWitness",
+            "VarMap": {
+                "Hash": 0,
+                "check": 1
+            }
+        },
+        {
+            "Method": "notify",
+            "VarMap": {}
+        },
+        {
+            "Method": "getTime",
+            "VarMap": {
+                "time": 0,
+                "Hash": 1,
+                "header": 2,
+                "time1": 3
+            }
+        },
+        {
+            "Method": "serialize",
+            "VarMap": {
+                "context": 0,
+                "time": 1,
+                "time1": 2,
+                "time2": 3
+            }
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "getContext",
+            "VarMap": {
+                "context": 0,
+                "script": 1,
+                "contract": 2,
+                "context1": 3
+            }
+        },
+        {
+            "Method": "put",
+            "VarMap": {
+                "context": 0
+            }
+        },
+        {
+            "Method": "get",
+            "VarMap": {
+                "context": 0,
+                "value": 1
+            }
+        },
+        {
+            "Method": "delete",
+            "VarMap": {
+                "context": 0,
+                "value": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+#!d:\tron\cli\venv\scripts\python.exe
+
+import troncli.cli
+
+troncli.cli.main()

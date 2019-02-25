@@ -1,0 +1,15 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "ebb329f2d37473c2ba8887ce7bd14534835a122b",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "getTransactionCount",
+            "parameters": []
+        },
+        {
+            "name": "getTransactions",
+            "parameters": []
+        }
+    ]
+}

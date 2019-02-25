@@ -1,0 +1,24 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "getStorageContext",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "contract": 2,
+                "context1": 3
+            }
+        },
+        {
+            "Method": "destroy",
+            "VarMap": {}
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "arg1": 2,
+                "arg2": 3,
+                "arg3": 4
+            }
+        },
+        {
+            "Method": "Array",
+            "VarMap": {
+                "args": 0
+            }
+        },
+        {
+            "Method": "Boolean",
+            "VarMap": {}
+        },
+        {
+            "Method": "Bytearray",
+            "VarMap": {
+                "arg1": 0,
+                "arg2": 1
+            }
+        },
+        {
+            "Method": "Intger",
+            "VarMap": {}
+        },
+        {
+            "Method": "Returntype",
+            "VarMap": {
+                "arg1": 0,
+                "arg2": 1,
+                "arg3": 2,
+                "list": 3
+            }
+        },
+        {
+            "Method": "String",
+            "VarMap": {}
+        }
+    ]
+}

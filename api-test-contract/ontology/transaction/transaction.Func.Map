@@ -1,0 +1,30 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "getType",
+            "VarMap": {
+                "Hash": 0,
+                "block": 1,
+                "tx": 2,
+                "Type": 3
+            }
+        },
+        {
+            "Method": "getAttributes",
+            "VarMap": {
+                "Hash": 0,
+                "block": 1,
+                "count": 2,
+                "tx": 3,
+                "attr": 4
+            }
+        }
+    ]
+}

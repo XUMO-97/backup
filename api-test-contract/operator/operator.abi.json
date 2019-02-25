@@ -1,0 +1,229 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "c85a227c7016ff53f1981da85285e417522830b8",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "Add",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "And",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "Divide",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "eq",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "lq",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "leftshift",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "lr",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "mode",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "multi",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "ne",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "ng",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "Or",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "rightshift",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "se",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "selfadd",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "selfsub",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "sl",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "sub",
+            "parameters": [
+                {
+                    "name": "a",
+                    "type": ""
+                },
+                {
+                    "name": "b",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+[run]
+source = boa
+
+[report]
+omit =
+  venv*
+  boa_test/*
+  boa/interop/*
+  boa/builtins.py

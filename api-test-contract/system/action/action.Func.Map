@@ -1,0 +1,17 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1
+            }
+        },
+        {
+            "Method": "test",
+            "VarMap": {
+                "a": 0
+            }
+        }
+    ]
+}

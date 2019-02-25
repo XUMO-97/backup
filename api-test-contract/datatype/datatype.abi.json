@@ -1,0 +1,58 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "d04a94bb1ca4bff527f76becbba0a2a24088d89d",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "Array",
+            "parameters": [
+                {
+                    "name": "args",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "Boolean",
+            "parameters": []
+        },
+        {
+            "name": "Bytearray",
+            "parameters": [
+                {
+                    "name": "arg1",
+                    "type": ""
+                },
+                {
+                    "name": "arg2",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "Intger",
+            "parameters": []
+        },
+        {
+            "name": "Returntype",
+            "parameters": [
+                {
+                    "name": "arg1",
+                    "type": ""
+                },
+                {
+                    "name": "arg2",
+                    "type": ""
+                },
+                {
+                    "name": "arg3",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "String",
+            "parameters": []
+        }
+    ]
+}

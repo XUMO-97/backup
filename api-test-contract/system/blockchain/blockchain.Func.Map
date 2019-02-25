@@ -1,0 +1,69 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "getHeight",
+            "VarMap": {
+                "context": 0,
+                "height": 1
+            }
+        },
+        {
+            "Method": "getHeader",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "header": 2,
+                "HashFromHeader": 3
+            }
+        },
+        {
+            "Method": "getBlock",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Block": 2,
+                "Count": 3
+            }
+        },
+        {
+            "Method": "getTransaction",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Block": 2,
+                "tx": 3,
+                "h": 4,
+                "t": 5,
+                "h1": 6
+            }
+        },
+        {
+            "Method": "getContract",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "contract": 2,
+                "script": 3
+            }
+        },
+        {
+            "Method": "getTransactionHeight",
+            "VarMap": {
+                "context": 0,
+                "Hash": 1,
+                "Block": 2,
+                "tx": 3,
+                "txh": 4,
+                "height": 5
+            }
+        }
+    ]
+}

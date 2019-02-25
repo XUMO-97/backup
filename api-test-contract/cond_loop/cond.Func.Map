@@ -1,0 +1,28 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "a": 2,
+                "b": 3
+            }
+        },
+        {
+            "Method": "While",
+            "VarMap": {
+                "a": 0,
+                "b": 1,
+                "i": 2
+            }
+        },
+        {
+            "Method": "ifelse",
+            "VarMap": {
+                "a": 0,
+                "b": 1
+            }
+        }
+    ]
+}

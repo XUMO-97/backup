@@ -1,0 +1,27 @@
+{
+    "Functions": [
+        {
+            "Method": "Main",
+            "VarMap": {
+                "operation": 0,
+                "args": 1,
+                "context": 2
+            }
+        },
+        {
+            "Method": "asReadOnly",
+            "VarMap": {
+                "context": 0,
+                "newContext": 1,
+                "context1": 2
+            }
+        },
+        {
+            "Method": "put",
+            "VarMap": {
+                "context": 0,
+                "context1": 1
+            }
+        }
+    ]
+}

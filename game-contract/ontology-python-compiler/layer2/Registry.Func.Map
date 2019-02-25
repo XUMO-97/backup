@@ -1,0 +1,506 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "OntCversion": 0,
+                "SelfContractHash": 1,
+                "TOKEN_CONTRACT_REVERSED_HASH": 2,
+                "PLCR_CONTRACT_REVERSED_HASH": 3,
+                "PARAMETERIZER_CONTRACT_REVERSED_HASH": 4,
+                "NAME_KEY": 5,
+                "LISTING_MAP_KEY": 6,
+                "CHALLENGE_MAP_KEY": 7,
+                "CHALLENGE_TOKEN_CLAIMS_KEY": 8
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "tokenRCH": 3,
+                "plcrRCH": 4,
+                "paramRCH": 5,
+                "name": 6,
+                "Function_Call_Arglen###FixedName": 7,
+                "account": 8,
+                "listingHash": 9,
+                "amount": 10,
+                "data": 11,
+                "listingHashList": 12,
+                "challengeID": 13,
+                "accountList": 14,
+                "challengeIDList": 15,
+                "voter": 16,
+                "helperSalt": 17,
+                "mode": 18
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "start": 3,
+                "stop": 4,
+                "step": 5,
+                "lst": 6,
+                "iteri": 7
+            }
+        },
+        {
+            "Method": "int",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "scale": 3,
+                "slen": 4,
+                "n": 5,
+                "num": 6,
+                "elt_p0": 7,
+                "elt_p1": 8,
+                "elt_p2": 9,
+                "ForIndexPrefix_Var###0": 10,
+                "Function_Call_Arglen###FixedName": 11,
+                "ForIndexPrefix_Var###1": 12,
+                "ForIndexPrefix_Var###2": 13,
+                "i": 14,
+                "cur_char": 15
+            }
+        },
+        {
+            "Method": "elt_in",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "l": 2,
+                "elt": 3,
+                "ForIndexPrefix_Var###0": 4,
+                "ForIndexPrefix_Var###1": 5,
+                "ForIndexPrefix_Var###2": 6,
+                "i": 7
+            }
+        },
+        {
+            "Method": "str",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg_int": 2,
+                "Function_Call_Arglen###FixedName": 3
+            }
+        },
+        {
+            "Method": "str_scale",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg_int": 2,
+                "scale": 3,
+                "negtive": 4,
+                "res": 5,
+                "trans_map": 6,
+                "iter_t": 7,
+                "t": 8
+            }
+        },
+        {
+            "Method": "init",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "tokenRCH": 2,
+                "plcrRCH": 3,
+                "paramRCH": 4,
+                "name": 5,
+                "Function_Call_Arglen###FixedName": 6
+            }
+        },
+        {
+            "Method": "apply",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "listingHash": 3,
+                "amount": 4,
+                "data": 5,
+                "Function_Call_Arglen###FixedName": 6,
+                "paramHash": 7,
+                "params": 8,
+                "minDeposit": 9,
+                "applyStageLen": 10,
+                "listing": 11,
+                "res": 12
+            }
+        },
+        {
+            "Method": "deposit",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "listingHash": 3,
+                "amount": 4,
+                "Function_Call_Arglen###FixedName": 5,
+                "listingInfo": 6,
+                "listing": 7,
+                "res": 8
+            }
+        },
+        {
+            "Method": "withdraw",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "listingHash": 3,
+                "amount": 4,
+                "Function_Call_Arglen###FixedName": 5,
+                "listingInfo": 6,
+                "listing": 7,
+                "minDeposit": 8,
+                "unstakeDepositLeft": 9,
+                "res": 10
+            }
+        },
+        {
+            "Method": "exit",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "listingHash": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "listingInfo": 5,
+                "listing": 6,
+                "challengeID": 7,
+                "challengeInfo": 8,
+                "challenge": 9
+            }
+        },
+        {
+            "Method": "challenge",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "listingHash": 3,
+                "data": 4,
+                "Function_Call_Arglen###FixedName": 5,
+                "listingInfo": 6,
+                "listing": 7,
+                "minDeposit": 8,
+                "challengeID": 9,
+                "challengeInfo": 10,
+                "challenge": 11,
+                "voteQuorum": 12,
+                "commitStageLen": 13,
+                "revealStageLen": 14,
+                "pollID": 15,
+                "dispenssationPct": 16,
+                "res": 17,
+                "endTimeList": 18,
+                "commitEndTime": 19,
+                "revealEndTime": 20
+            }
+        },
+        {
+            "Method": "updateStatus",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3
+            }
+        },
+        {
+            "Method": "updateStatuses",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHashList": 2,
+                "ForIndexPrefix_Var###0": 3,
+                "ForIndexPrefix_Var###1": 4,
+                "ForIndexPrefix_Var###2": 5,
+                "listingHash": 6,
+                "Function_Call_Arglen###FixedName": 7
+            }
+        },
+        {
+            "Method": "claimReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "account": 2,
+                "challengeID": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "claimed": 5,
+                "challengeInfo": 6,
+                "challenge": 7,
+                "voterTokens": 8,
+                "reward": 9,
+                "res": 10
+            }
+        },
+        {
+            "Method": "claimRewards",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "accountList": 2,
+                "challengeIDList": 3,
+                "listLen": 4,
+                "index": 5,
+                "account": 6,
+                "challengeID": 7,
+                "Function_Call_Arglen###FixedName": 8
+            }
+        },
+        {
+            "Method": "voterReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "voter": 2,
+                "challengeID": 3,
+                "Function_Call_Arglen###FixedName": 4,
+                "challengeInfo": 5,
+                "challenge": 6,
+                "totalTokens": 7,
+                "rewardPool": 8,
+                "voterTokens": 9
+            }
+        },
+        {
+            "Method": "canBeWhitelisted",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5,
+                "challengeID": 6,
+                "challengeInfo": 7,
+                "challenge": 8,
+                "appWasMadeF": 9,
+                "applicationEnded": 10,
+                "ableToBeWhitelisted": 11,
+                "IDisZeroOrResolved": 12
+            }
+        },
+        {
+            "Method": "isWhitelisted",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5
+            }
+        },
+        {
+            "Method": "getData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5
+            }
+        },
+        {
+            "Method": "appWasMade",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5
+            }
+        },
+        {
+            "Method": "challengeExists",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5,
+                "challengeID": 6,
+                "challengeInfo": 7,
+                "challenge": 8
+            }
+        },
+        {
+            "Method": "challengeCanBeResolved",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5,
+                "challengeID": 6
+            }
+        },
+        {
+            "Method": "determineReward",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "challengeID": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "challengeInfo": 4,
+                "challenge": 5,
+                "notResolved": 6,
+                "votingEnded": 7,
+                "stake": 8,
+                "totalNumberOfTokensForWinningOption": 9,
+                "rewardPool": 10
+            }
+        },
+        {
+            "Method": "tokenClaims",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "challengeID": 2,
+                "voter": 3,
+                "Function_Call_Arglen###FixedName": 4
+            }
+        },
+        {
+            "Method": "barrier",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "helperSalt": 3,
+                "mode": 4,
+                "Function_Call_Arglen###FixedName": 5
+            }
+        },
+        {
+            "Method": "getTokenRCH",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "getPLCRRCH",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "getParamRCH",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "_resolveChallenge",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5,
+                "challengeID": 6,
+                "reward": 7,
+                "challengeInfo": 8,
+                "challenge": 9,
+                "plcrHash": 10,
+                "isPassed": 11,
+                "res": 12
+            }
+        },
+        {
+            "Method": "_whitelistApplication",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5
+            }
+        },
+        {
+            "Method": "_resetListing",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listingHash": 2,
+                "Function_Call_Arglen###FixedName": 3,
+                "listingInfo": 4,
+                "listing": 5,
+                "owner": 6,
+                "unstakedDeposit": 7,
+                "res": 8
+            }
+        },
+        {
+            "Method": "_concatKey",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "str1": 2,
+                "str2": 3
+            }
+        },
+        {
+            "Method": "Add",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        },
+        {
+            "Method": "Sub",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3
+            }
+        },
+        {
+            "Method": "Mul",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        },
+        {
+            "Method": "Div",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "a": 2,
+                "b": 3,
+                "c": 4
+            }
+        }
+    ]
+}

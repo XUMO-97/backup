@@ -1,0 +1,24 @@
+[2018/12/14 18:58:40 CST] [INFO] ===============================================================
+[2018/12/14 18:58:40 CST] [INFO] -------Ontology Test Start Version:v1.5.2
+[2018/12/14 18:58:40 CST] [INFO] ===============================================================
+[2018/12/14 18:58:40 CST] [INFO] 
+[2018/12/14 18:58:40 CST] [INFO] Default account balance ont:689989769 ong:71229830206331520
+[2018/12/14 18:58:40 CST] [INFO] ===============================================================
+[2018/12/14 18:58:40 CST] [INFO] 1. Start TestCase:TestBet
+[2018/12/14 18:58:40 CST] [INFO] ---------------------------------------------------------------
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc00023e390})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc00023e600})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc0001122d0})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc00020c270})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc00020c4b0})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc000146090})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc000112540})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc000116270})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc0001164b0})
+[2018/12/14 18:58:41 CST] [INFO] nums:%!(EXTRA *common.PreExecResult=&{1 20000 0xc0001166f0})
+[2018/12/14 18:58:46 CST] [INFO] ===============================================================
+[2018/12/14 18:58:46 CST] [INFO] Ontology Test Finish Total:1 Success:0 Failed:0 Skip:1 TimeCost:5.66 s.
+[2018/12/14 18:58:46 CST] [INFO] ---------------------------------------------------------------
+[2018/12/14 18:58:46 CST] [INFO] Skip list:
+[2018/12/14 18:58:46 CST] [INFO] 1.	TestBet
+[2018/12/14 18:58:46 CST] [INFO] ===============================================================
